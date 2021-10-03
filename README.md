@@ -1,5 +1,5 @@
-<img 
-src="" width="" alt="photo soon">
+Hi there,👋🏻
+
 ## About Me ;)💫
 
 Hello, I'm Amir Mohammad.  Web designer and computer engineering student.  My interest is artificial Intellligence and software.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning more Windows languages.
