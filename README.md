@@ -1,16 +1,33 @@
 ### Hi there 👋
+<img 
+src="" width="400" alt="photo"></a></p>
+## About Me ;)
 
-<!--
-**AmirMwhmd/AmirMwhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Amir Mohammad.  Web designer and computer engineering student.  My interest is artificial Intellligence and software.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning more Windows languages.
 
-Here are some ideas to get you started:
+- [telegram](https://t.me/Amirmwhmd).
+- [whatsapp](https://wa.me/09011325118).
+- some source in [mimo](https://getmimo.com/invite/715ay7) and [You Tube](https://laravel.com/docs/cache) channel.
+- Instagram, persian [_amirmwhmd_](https://www.instagram.com/invites/contact/?i=u1q7x7luj5uw&utm_content=m2wy305).
+- Google Drive for [You Tube](https://laravel.com/docs/migrations).
+- [My Web Site](https://laravel.com/docs/queues).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cooperate with me
+
+Please send me an  [Email](arshaparvizi97@gmail.com) to cooperate with me.
+
+## Certifications
+
+### All online certifications
+
+- **[Artificial Intelligents,  Helsinki, London.](https://certificates.mooc.fi/validate/uwzjs879c1)**
+- **[Google Analytics, Google Academy.](https://analytics.google.com/analytics/academy/certificate/7v9YWTp9TRibZ68pZkreAA)**
+- **[Mimo Certifications, Mimo.](https://getmimo.com/invite/715ay7)**
+
+## Internship
+
+Richedu Company, Web Design, 3 Months, Freelancer [Richedu]().
+
+## License
+
+All  my account sources are without special license and copyright [No license]().
