@@ -2,7 +2,7 @@ Hi there,👋🏻
 
 ## About Me ;)💫
 
-Hello, I'm Amir Mohammad.  Web designer and computer engineering student.  My interest is artificial Intellligence and software.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning more Windows languages.
+Hello, I'm Amir Mohammad.  Web designer and computer engineering student (Bachelor).  My interest is artificial Intellligence and software.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning Ros(Robotic Operation System).
 
 ## Send your feedbacks🚀
 
@@ -15,7 +15,7 @@ Hello, I'm Amir Mohammad.  Web designer and computer engineering student.  My in
 
 ## Cooperate with me🎯
 
-Please send me an  [Email](arshaparvizi97@gmail.com) to cooperate with me.
+Please send me an  [Email](official.parvizi@gmail.com) to cooperate with me.
 
 ## Certifications 🏆
 
@@ -31,6 +31,6 @@ Richedu Company, Web Design, 3 Months, Freelancer [Richedu]().
 
 ## License🤗
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-All  my account sources are without special license and copyright [No license]().
+All  sources are without special license and copyright [No license]().
 
 Amir Mohammad Parvizi ;)
