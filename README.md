@@ -31,7 +31,7 @@ Please send me an  [Email](official.parvizi@gmail.com) to cooperate with me.
 
 ## Internship🔨
 
-Richedu Company, Web Design, 3 Months, Freelancer [Richedu]().
+Richedu Company, Web Design, 3 Months, Freelancer [Richedu Company, Canada](richedu.co).
 
 ## License🤗
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
