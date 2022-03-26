@@ -2,15 +2,15 @@ Hi there,👋🏻
 
 ## About Me ;)💫
 
-Hello, I'm Amir Mohammad.  Web designer and computer engineering (Bachelor student).  My interest is artificial Intellligence and software.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning Ros (Robotic Operation System).
+Hello, I'm Amir Mohammad.  Web designer and computer engineering (Bachelor student of Software Engineering).  My interest is artificial Intellligence and Network.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning Ros (Robotic Operation System).
 
 ## Send your feedbacks🚀
 
-- [Telegram](https://instagram.com/im.awrsha?utm_medium=copy_link).
+- [Telegram] : [Personal account] (https://t.me/Ohom_mnm_ID_daram) and [HydraLearn channel] (https://t.me/HydraLearn).
 - [Whatsapp](https://wa.me/09011325118).
-- some source in [Mimo](https://getmimo.com/invite/715ay7) and [You Tube](https://laravel.com) channel.
-- Instagram, persian [click me ;)](https://instagram.com/im.awrsha?utm_medium=copy_link).
-- Google Drive for [You Tube](https://).
+- some source in [Mimo](https://getmimo.com/invite/715ay7) and [You Tube](https://www.youtube.com/channel/UCVpD4soBf5-zrTXScQohtHQ) channel.
+- Instagram [click me ;)](https://instagram.com/awrsha.parvizi?utm_medium=copy_link).
+- [Google Drive] for You Tube(https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk).
 - [My Web Site](https://redl.ink/AmirMwhmd).
 
 ## Cooperate with me🎯
