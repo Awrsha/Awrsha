@@ -1,10 +1,10 @@
-Hi there,👋🏻
+Hi there 👋🏻
 
-## About Me ;)💫
+## About Me ;) 💫
 
 Hello, I'm Amir Mohammad.  Web designer and computer engineering (Bachelor student of Software Engineering [Qazvin Islamic Azad University](https://qazvin.iau.ir/fa)).  My interest is artificial Intellligence and Network.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning Ros (Robotic Operation System in [MRL](https://mrl-amrl.ir)).
 
-## Send your feedbacks🚀
+## Send your feedbacks 🚀
 
 - My Telegram : [Personal](https://t.me/Ohom_mnm_ID_daram) account and [HydraLearn Channel](https://t.me/HydraLearn) channel.
 - My [Whatsapp](https://wa.me/09011325118) account.
@@ -13,9 +13,9 @@ Hello, I'm Amir Mohammad.  Web designer and computer engineering (Bachelor stude
 - My [Google Drive](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk) account.
 - My [Web](https://redl.ink/AmirMwhmd) site.
 
-## Cooperate with me🎯
+## Cooperate with me 🎯
 
-Please send me an  [Email](official.parvizi@gmail.com) to cooperate with me.
+Please send me an  [Email](official.parvizi@gmail.com) to cooperate with me 📬.
 
 ## Certifications 🏆
 
@@ -29,12 +29,12 @@ Please send me an  [Email](official.parvizi@gmail.com) to cooperate with me.
 - **[Google Analytics 360, Google Academy.](https://analytics.google.com/analytics/academy/certificate/tuL7ZhgqQ0afLype42VBRA)**
 
 
-## Internship🔨
+## Internship 🔨
 
-Richedu Company, Web Design, 3 Months, Freelancer [Richedu Company, Canada](richedu.co).
+Richedu Company, Web Design, 3 Months, Freelancer [Richedu Company, Canada](richedu.co) 🍁.
 
-## License🤗
+## License 🤗
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 All  sources are without special license and copyright [No license]().
 
-Amir Mohammad Parvizi ;)
+Amir Mohammad Parvizi ♥️
