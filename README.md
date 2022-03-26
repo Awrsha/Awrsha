@@ -2,16 +2,16 @@ Hi there,👋🏻
 
 ## About Me ;)💫
 
-Hello, I'm Amir Mohammad.  Web designer and computer engineering (Bachelor student of Software Engineering).  My interest is artificial Intellligence and Network.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning Ros (Robotic Operation System).
+Hello, I'm Amir Mohammad.  Web designer and computer engineering (Bachelor student of Software Engineering [Qazvin Islamic Azad University](https://qazvin.iau.ir/fa)).  My interest is artificial Intellligence and Network.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning Ros (Robotic Operation System in [MRL](https://mrl-amrl.ir)).
 
 ## Send your feedbacks🚀
 
-- Telegram : [Personal Account](https://t.me/Ohom_mnm_ID_daram) and [HydraLearn Channel](https://t.me/HydraLearn).
-- [Whatsapp](https://wa.me/09011325118).
-- some source in [Mimo Account](https://getmimo.com/invite/715ay7) and [You Tube](https://www.youtube.com/channel/UCVpD4soBf5-zrTXScQohtHQ) channel.
-- Instagram [click me ;)](https://instagram.com/awrsha.parvizi?utm_medium=copy_link).
-- [Google Drive](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk).
-- [My Web Site](https://redl.ink/AmirMwhmd).
+- My Telegram : [Personal](https://t.me/Ohom_mnm_ID_daram) account and [HydraLearn Channel](https://t.me/HydraLearn) channel.
+- My [Whatsapp](https://wa.me/09011325118) account.
+- My [Mimo Account](https://getmimo.com/invite/715ay7) account and My [You Tube](https://www.youtube.com/channel/UCVpD4soBf5-zrTXScQohtHQ) channel.
+- My [Instagram](https://instagram.com/awrsha.parvizi?utm_medium=copy_link) account.
+- My [Google Drive](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk) account.
+- My [Web](https://redl.ink/AmirMwhmd) site.
 
 ## Cooperate with me🎯
 
