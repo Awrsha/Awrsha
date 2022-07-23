@@ -6,12 +6,12 @@ Hello, I'm Amir Mohammad.  Web designer and computer engineering (Bachelor stude
 
 ## Send your feedbacks 🚀
 
-- My Telegram : [Personal](https://t.me/Ohom_mnm_ID_daram) account and [HydraLearn Channel](https://t.me/HydraLearn) channel.
+- My Telegram : [Personal](https://t.me/OfficialParvizi) account and [HydraLearn Channel](https://t.me/HydraLearn) channel.
 - My [Whatsapp](https://wa.me/09011325118) account.
 - My [Mimo Account](https://getmimo.com/invite/715ay7) account and My [You Tube](https://www.youtube.com/channel/UCVpD4soBf5-zrTXScQohtHQ) channel.
 - My [Instagram](https://instagram.com/awrsha.parvizi?utm_medium=copy_link) account.
 - My [Google Drive](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk) account.
-- My [Web](https://redl.ink/AmirMwhmd) site.
+- My [Web](https://redl.ink/Awrha) site.
 
 ## Cooperate with me 🎯
 
