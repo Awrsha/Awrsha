@@ -6,6 +6,7 @@ Hello, I'm Amir Mohammad.  Web designer and computer engineering (Bachelor stude
 
 ## Send your feedbacks 🚀
 
+- My [Linkedin](https://wa.me/09011325118](https://www.linkedin.com/in/amirmwhmd/) account.
 - My Telegram : [Personal](https://t.me/OfficialParvizi) account and [HydraLearn Channel](https://t.me/HydraLearn) channel.
 - My [Whatsapp](https://wa.me/09011325118) account.
 - My [Mimo Account](https://getmimo.com/invite/715ay7) account and My [You Tube](https://www.youtube.com/channel/UCVpD4soBf5-zrTXScQohtHQ) channel.
