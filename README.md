@@ -1,3 +1,5 @@
+## Hi Guys, Welcome to my GitHub 👋🏻
+
 <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
 
@@ -12,8 +14,7 @@
     <br>
     <a href="#"><img alt="Awrsha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awrsha&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a>
 </div>
-
-Hi there 👋🏻
+<br>
 
 ## About Me ;) 💫
 
