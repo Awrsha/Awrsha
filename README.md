@@ -63,9 +63,9 @@ Jobot, Computer Vision Engineer.
 
 ## Education 🎓
 
-University : Qazvin Islamic Azad University (QIAU), GPA : 4, Bachelor Degree, Software Engineering, 2020 to 2024.
+University : Qazvin Islamic Azad University (QIAU), GPA : 4, Bachelor Degree, Software Engineering, 2020 to 2024. 👨🏻‍🎓
 
-High School : Aqmashe State Model High School, GPA : 4, Mathematics Diploma, 2017 to 2020.
+High School : Aqmashe State Model High School, GPA : 4, Mathematics Diploma, 2017 to 2020. 🎒
 
 ## License 🤗
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
