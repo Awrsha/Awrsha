@@ -1,16 +1,33 @@
+<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
+
+
+<h2> Github Stats</h2>
+
+<div>
+    <a href="#"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="Awrsha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awrsha&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="Awrsha's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Awrsha&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="Awrsha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awrsha&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a>
+</div>
+
 Hi there 👋🏻
 
 ## About Me ;) 💫
 
-Hello, I'm Amir Mohammad.  Web designer and computer engineering (Bachelor student of Software Engineering [Qazvin Islamic Azad University](https://qazvin.iau.ir/fa) 🇮🇷).  My interest is artificial Intellligence and Network.  I started my career with web design and programming, then I became interested in honorary Cyber police in my country  and learned about site security, and finally I started teaching at some sites and now I am learning Ros (Robotic Operation System in [MRL](https://https://sites.google.com/view/mrl-hsl)).
+Hello, I'm Amir Mohammad.  A network engineer is a technology professional who has the necessary skills to plan, implement and oversee the computer networks that support in-house voice, data, video and wireless network services. 🌐🗺️
+
+Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users. 💻👾.
 
 ## Send your feedbacks 🚀
 
-- My [Linkedin](https://www.linkedin.com/in/amirmwhmd) account.
-- My Telegram : [Personal](https://t.me/OfficialParvizi) account and [HydraLearn](https://t.me/HydraLearn) Channel.
-- My [Whatsapp](https://wa.me/09011325118) account.
+- My [Linkedin](https://www.linkedin.com/in/Awrsha) account.
+- My Telegram : [Personal](https://t.me/ItsAwrsha) account and [HydraLearn](https://t.me/HydraLearn) Channel.
+- My [Whatsapp](https://wa.me/+989011325118) account.
 - My [Mimo Account](https://getmimo.com/invite/715ay7) account and My [You Tube](https://www.youtube.com/channel/UCVpD4soBf5-zrTXScQohtHQ) channel.
-- My [Instagram](https://instagram.com/awrsha.parvizi?utm_medium=copy_link) account.
+- My [Instagram](https://instagram.com/awrsha._.parvizi?utm_medium=copy_link) account.
 - My [Google Drive](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk) account.
 - My [Web](https://redl.ink/Awrha) site.
 
