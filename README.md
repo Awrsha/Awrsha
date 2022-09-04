@@ -49,16 +49,22 @@ Please send me an  [Email](official.parvizi@gmail.com) to cooperate with me 📬
 ## Work Experience 💼
 
 Richedu Company, UI/UX and Front-End Developer, Freelancer [Richedu Company, Canada](richedu.co) 🇨🇦🍁.
+
 SYNTECH Technology and Innovation center, Researcher.
+
 MRL Humanoid, Vision Group.
+
 MRL-AMRL, Drones Developer.
+
 Ghasedak24, CRM Administrator.
+
 Jobot, Computer Vision Engineer.
 
 
 ## Education 🎓
 
 University : Qazvin Islamic Azad University (QIAU), GPA : 4, Bachelor Degree, Software Engineering, 2020 to 2024.
+
 High School : Aqmashe State Model High School, GPA : 4, Mathematics Diploma, 2017 to 2020.
 
 ## License 🤗
