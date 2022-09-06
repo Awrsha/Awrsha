@@ -1,6 +1,6 @@
 ## Hi Guys, Welcome to my GitHub 👋🏻
 
-<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
+<img src="https://user-images.githubusercontent.com/89135083/188740852-87932e61-8caa-4694-9943-c983661516d0.svg" alt="just for fun :D">
 
 
 <h2> Github Stats</h2>
