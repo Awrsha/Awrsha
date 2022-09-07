@@ -1,3 +1,6 @@
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+<br>
+
 ## Hi Guys, Welcome to my GitHub 👋🏻
 
 <img src="https://user-images.githubusercontent.com/89135083/188740852-87932e61-8caa-4694-9943-c983661516d0.svg" alt="just for fun :D">
