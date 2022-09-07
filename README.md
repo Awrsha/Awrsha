@@ -15,7 +15,6 @@
     <a href="#"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=4ff0ca" height="200px" /></a>
     <br>
     
-    <br
     
 ![Awrsha's github stats](https://github-readme-stats.vercel.app/api?username=Awrsha&show_icons=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awrsha&theme=tokyonight_duo" alt="mystreak"/>
@@ -72,10 +71,8 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 <details>
   <summary>My latest project with my fellow friends 🚧</summary>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=KKM&theme=github_dark)](https://github.com/raviolini/KKM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma_ciphers_cryptograms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=DiscordBot&theme=github_dark)](https://github.com/Awrsha/DiscordBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=InstagramBot&theme=github_dark)](https://github.com/Awrsha/InstagramBot)
   
 </details>
 
@@ -83,39 +80,31 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 <details>
   <summary>My Artificial Intelligence🛰️</summary>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-Jetpack-Pro&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-Jetpack-Pro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=LatihanAndroidSekolah&theme=github_dark)](https://github.com/AkuraDiary/LatihanAndroidSekolah)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Histogram-Equalizer-Image-on-zynq&theme=github_dark)](https://github.com/Awrsha/Histogram-Equalizer-Image-on-zynq)
   
 </details>
 
 <details>
   <summary>My Robotics Project 🌼</summary>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=KKM&theme=github_dark)](https://github.com/raviolini/KKM)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=MarkasTest&theme=github_dark)](https://github.com/AkuraDiary/MarkasTest) 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Submission2MadeDicoding&theme=github_dark)](https://github.com/AkuraDiary/Submission2MadeDicoding) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Blur-with-kernel-and-padding&theme=github_dark)](https://github.com/Awrsha/Blur-with-kernel-and-padding)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=HistogramEqualization&theme=github_dark)](https://github.com/Awrsha/HistogramEqualization)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Soccer-Robot-Playground&theme=github_dark)](https://github.com/Awrsha/Soccer-Robot-Playground) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=webcam-threshHold&theme=github_dark)](https://github.com/Awrsha/webcam-threshHold) 
 
 </details>
 
 <details>
   <summary>My Web Projects 🚧</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-VS&theme=github_dark)](https://github.com/AkuraDiary/Belajar-VS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-VS-C-sharp&theme=github_dark)](https://github.com/AkuraDiary/Belajar-VS-C-sharp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Blur-image-with-kernel&theme=github_dark)](https://github.com/Awrsha/Blur-image-with-kernel)
   
 </details>
 
 <details>
   <summary>My Vision Projects 🎞️</summary>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season1&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season2&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season3&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season4&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season4)
-</details>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=RoboticSoccerPlayGround&theme=github_dark)](https://github.com/Awrsha/RoboticSoccerPlayGround)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
