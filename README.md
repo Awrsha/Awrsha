@@ -1,10 +1,13 @@
 <h1 align="center">
   <a href="https://github.com/Awrsha"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></a>
 </h1>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89135083/188740852-87932e61-8caa-4694-9943-c983661516d0.svg" alt="just for fun :D"></a>
 </p>
+
 ## By the way here are some of my statistics 🚀
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=github_dark)
 <div>
@@ -16,7 +19,7 @@
 
 <!--![Awrsha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&theme=github_dark&layout=compact)-->
 
-[![Awrsha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Awrsha&theme=react-dark)](AkuraDiary)
+[![Awrsha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Awrsha&theme=react-dark)](Awrsha)
 
 <!--trap-->
     
