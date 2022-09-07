@@ -10,7 +10,7 @@
     <br>
     <a href="#"><img alt="Awrsha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awrsha&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
-    <a href="#"><img alt="Awrsha's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Awrsha&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="Awrsha's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?username=Awrsha&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
     <br>
     <a href="#"><img alt="Awrsha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awrsha&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a>
 </div>
