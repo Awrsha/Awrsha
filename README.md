@@ -150,6 +150,9 @@ High School : Aqmashe State Model High School, GPA : 4, Mathematics Diploma, 201
 
 Amir Mohammad Parvizi ♥️
 
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
