@@ -1,20 +1,15 @@
 <h1 align="center">
   <a href="https://github.com/Awrsha"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></a>
 </h1>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89135083/188740852-87932e61-8caa-4694-9943-c983661516d0.svg" alt="just for fun :D"></a>
 </p>
-
 ## By the way here are some of my statistics 🚀
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=github_dark)
-
 <div>
     <a href="#"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=4ff0ca" height="200px" /></a>
-    <br>
-    
+    <br>  
     
 ![Awrsha's github stats](https://github-readme-stats.vercel.app/api?username=Awrsha&show_icons=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awrsha&theme=tokyonight_duo" alt="mystreak"/>
@@ -105,6 +100,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
   <summary>My Vision Projects 🎞️</summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=RoboticSoccerPlayGround&theme=github_dark)](https://github.com/Awrsha/RoboticSoccerPlayGround)
+</details>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -148,11 +144,6 @@ University : Qazvin Islamic Azad University (QIAU), GPA : 4, Bachelor Degree, So
 
 High School : Aqmashe State Model High School, GPA : 4, Mathematics Diploma, 2017 to 2020. 🎒
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## License 🤗
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-All  sources are without special license and copyright [No license]().
 
 Amir Mohammad Parvizi ♥️
 
