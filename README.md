@@ -67,7 +67,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 <!--Projects-->
 
 <details>
-  <summary>My latest project with my fellow friends 🚧</summary>
+  <summary>My latest Projects at Jobot Company 🚧</summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=DiscordBot&theme=github_dark)](https://github.com/Awrsha/DiscordBot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=InstagramBot&theme=github_dark)](https://github.com/Awrsha/InstagramBot)
@@ -76,14 +76,14 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 
 <details>
-  <summary>My Artificial Intelligence🛰️</summary>
+  <summary>My Projects at MRL Humanoid 🛰️</summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Histogram-Equalizer-Image-on-zynq&theme=github_dark)](https://github.com/Awrsha/Histogram-Equalizer-Image-on-zynq)
   
 </details>
 
 <details>
-  <summary>My Robotics Project 🌼</summary>
+  <summary>My Front-End Projects 🌼</summary>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Blur-with-kernel-and-padding&theme=github_dark)](https://github.com/Awrsha/Blur-with-kernel-and-padding)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=HistogramEqualization&theme=github_dark)](https://github.com/Awrsha/HistogramEqualization)
@@ -93,14 +93,14 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 </details>
 
 <details>
-  <summary>My Web Projects 🚧</summary>
+  <summary>My Artificial intelligence & Machine learning Projects 🚧</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Blur-image-with-kernel&theme=github_dark)](https://github.com/Awrsha/Blur-image-with-kernel)
   
 </details>
 
 <details>
-  <summary>My Vision Projects 🎞️</summary>
+  <summary>My Computer Vision Projects 🎞️</summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=RoboticSoccerPlayGround&theme=github_dark)](https://github.com/Awrsha/RoboticSoccerPlayGround)
 </details>
