@@ -11,7 +11,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=github_dark)
 <div>
-    <a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=4ff0ca" height="200px" /></a>
+    <a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=4ffcfa" height="200px" /></a>
     <br>  
     
 ![Awrsha's github stats](https://github-readme-stats.vercel.app/api?username=Awrsha&show_icons=true&theme=github_dark)
