@@ -127,17 +127,44 @@ Please send me an  [Email](official.parvizi@gmail.com) to cooperate with me 📬
 
 ## Work Experience 💼
 
-Richedu Company, UI/UX and Front-End Developer, Freelancer [Richedu Company, Canada](richedu.co) 🇨🇦🍁.
+[Richedu Company](https://richedu.co) :
 
-SYNTECH Technology and Innovation center, Researcher.
+Vancouver, Biritish Columbia, Canada 🇨🇦
 
-MRL Humanoid, Vision Group.
+* UI/UX Designer, Internship 
+* 3D Modelling Designer, Internship
+* Digital Marketing, Internship
+* Web Developer, Freelancer
 
-MRL-AMRL, Drones Developer.
+[SYNTECH Technology and Innovation center, Researcher](richedu.co) :
 
-Ghasedak24, CRM Administrator.
+Qazvin, Islamic republic of Iran 🇮🇷
 
-Jobot, Computer Vision Engineer.
+* Artificial Intelligence Researcher 🧠
+
+[MRL Humanoid](richedu.co) :
+
+Qazvin, Islamic republic of Iran 🇮🇷
+
+* Robot Vision Group 🤖
+
+[MRL-AMRL](richedu.co) :
+
+Qazvin, Islamic republic of Iran 🇮🇷
+
+* Drones Vision Group 🕊️
+
+[Ghasedak24](richedu.co) :
+
+Tehran, Islamic republic of Iran 🇮🇷
+
+* CRM Administrator 👾
+
+[Jobot](richedu.co) :
+
+San Francisco, United States America 🇺🇸
+
+* Computer Vision Engineer 🖼️
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
