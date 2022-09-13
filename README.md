@@ -59,7 +59,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Awrsh
 - My [Mimo Account](https://getmimo.com/invite/715ay7) account and My [You Tube](https://www.youtube.com/channel/UCVpD4soBf5-zrTXScQohtHQ) channel.
 - My [Instagram](https://instagram.com/awrsha._.parvizi?utm_medium=copy_link) account.
 - My [Google Drive](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk) account.
-- My [Web](https://redl.ink/Awrha) site.
+- My [Web](https://awrsha.github.io/Resume) site.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
