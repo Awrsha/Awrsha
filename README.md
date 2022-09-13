@@ -154,13 +154,13 @@ Qazvin, Islamic republic of Iran 🇮🇷
 
 * Drones Vision Group 🕊️
 
-[Ghasedak24](richedu.co) :
+[Ghasedak24](https://ghasedak24.com) :
 
 Tehran, Islamic republic of Iran 🇮🇷
 
 * CRM Administrator 👾
 
-[Jobot](richedu.co) :
+[Jobot](https://jobot.com) :
 
 San Francisco, United States America 🇺🇸
 
