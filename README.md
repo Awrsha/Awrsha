@@ -136,7 +136,7 @@ Vancouver, Biritish Columbia, Canada 🇨🇦
 * Digital Marketing, Internship
 * Web Developer, Freelancer
 
-[SYNTECH Technology and Innovation center, Researcher](https://syntechcenter.com) :
+[SYNTECH Technology and Innovation center](https://syntechcenter.com) :
 
 Qazvin, Islamic republic of Iran 🇮🇷
 
