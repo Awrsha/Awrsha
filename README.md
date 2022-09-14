@@ -136,19 +136,19 @@ Vancouver, Biritish Columbia, Canada 🇨🇦
 * Digital Marketing, Internship
 * Web Developer, Freelancer
 
-[SYNTECH Technology and Innovation center, Researcher](richedu.co) :
+[SYNTECH Technology and Innovation center, Researcher](https://syntechcenter.com) :
 
 Qazvin, Islamic republic of Iran 🇮🇷
 
 * Artificial Intelligence Researcher 🧠
 
-[MRL Humanoid](richedu.co) :
+[MRL Humanoid](https://sites.google.com/view/mrl-hsl/home?authuser=0) :
 
 Qazvin, Islamic republic of Iran 🇮🇷
 
 * Robot Vision Group 🤖
 
-[MRL-AMRL](richedu.co) :
+[MRL-AMRL]() :
 
 Qazvin, Islamic republic of Iran 🇮🇷
 
