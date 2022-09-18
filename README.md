@@ -56,7 +56,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Awrsh
 - My [Linkedin](https://www.linkedin.com/in/Awrsha) account.
 - My Telegram : [Personal](https://t.me/ItsAwrsha) account and [HydraLearn](https://t.me/HydraLearn) Channel.
 - My [Whatsapp](https://wa.me/+989011325118) account.
-- My [Mimo Account](https://getmimo.com/invite/715ay7) account and My [You Tube](https://www.youtube.com/channel/UCVpD4soBf5-zrTXScQohtHQ) channel.
+- My [Mimo Account](https://getmimo.com/invite/715ay7) account and My [You Tube]() channel.
 - My [Instagram](https://instagram.com/awrsha._.parvizi?utm_medium=copy_link) account.
 - My [Google Drive](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk) account.
 - My [Web](https://awrsha.github.io/Resume) site.
