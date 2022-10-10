@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89135083/190925315-d0f5e89a-027f-4506-812f-38e7741f4254.svg" alt="just for fun :D"></a>
+  <img src="https://user-images.githubusercontent.com/89135083/194812319-b3630f42-576c-4c58-841c-0a6d9e054c78.svg" alt="just for fun :D"></a>
 </p>
 
 ## By the way here are some of my statistics 🚀
