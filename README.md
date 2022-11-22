@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89135083/194812319-b3630f42-576c-4c58-841c-0a6d9e054c78.svg" alt="just for fun :D"></a>
+  <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="just for fun :D"></a>
 </p>
-
 ## By the way here are some of my statistics 🚀
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=github_dark)
