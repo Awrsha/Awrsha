@@ -17,9 +17,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awrsha&theme=tokyonight_duo" alt="mystreak"/>
 
 <!--![Awrsha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&theme=github_dark&layout=compact)-->
-
 [![Awrsha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Awrsha&theme=react-dark)](Awrsha)
-
 <!--trap-->
     
 </div>
