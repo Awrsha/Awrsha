@@ -11,15 +11,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=github_dark)
 <div>
     <a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=#8f1755&icon_color=0d1117" height="250px" /></a>
-    <br>  
-    
-![Awrsha's github stats](https://github-readme-stats.vercel.app/api?username=Awrsha&show_icons=true&theme=github_dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Awrsha&theme=tokyonight_duo" alt="mystreak"/>
-
-<!--![Awrsha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&theme=github_dark&layout=compact)-->
-[![Awrsha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Awrsha&theme=react-dark)](Awrsha)
-<!--trap-->
-    
+    <br>
 </div>
 <br>
 
