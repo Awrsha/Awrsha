@@ -5,14 +5,18 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="just for fun :D"></a>
 </p>
+<br>
+
 ## By the way here are some of my statistics 🚀
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical)
+![Awrsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awrsha&theme=radical&show_icons=true&hide_border=true)
 <div>
-    <a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=#8f1755&icon_color=0d1117" height="250px" /></a>
-    <br>
+    <a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=radical&hide_border=true" height="250px" /></a>
+  <br>
 </div>
+<a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awrsha&theme=radical" height="250px" /></a>
 <br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
