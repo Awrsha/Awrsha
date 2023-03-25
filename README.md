@@ -115,8 +115,8 @@ Please send me an  [Email](official.parvizi@gmail.com) to cooperate with me 📬
 
 ## Certifications 🏆
 
-- **[Supervised Machine Learning, Deeplearning.ai, stanford online.](https://coursera.org/share/bc28485bdebe5717b142f40ef2f2a66c))** 🇺🇸
-- **[AI for everyone,  Deeplearning.ai, stanford online.](https://coursera.org/share/b22ea61a6b4223866825ac2c0236b5d4)** 🇺🇸
+- **[Supervised Machine Learning: Regression and classification, Deeplearning.ai.](https://coursera.org/share/bc28485bdebe5717b142f40ef2f2a66c)** 🇺🇸
+- **[AI for everyone,  Deeplearning.ai.](https://coursera.org/share/b22ea61a6b4223866825ac2c0236b5d4)** 🇺🇸
 - **[Learn to program: The Fandamentals, University of Toronto](https://www.coursera.org/account/accomplishments/verify/U457ZL5DA8G9?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)** 🇨🇦
 - **[Artificial Intelligents,  Helsinki, Finland.](https://certificates.mooc.fi/validate/uwzjs879c1)** 🇫🇮
 - **[Beginning - Google Analytics, Google Academy.](https://analytics.google.com/analytics/academy/certificate/7v9YWTp9TRibZ68pZkreAA)**
