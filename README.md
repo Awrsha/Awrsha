@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <a href="https://github.com/Awrsha"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></a>
 </h1>
@@ -9,18 +10,12 @@
 
 ## By the way here are some of my statistics 🚀
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical)
-![Awrsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awrsha&theme=radical&show_icons=true&hide_border=true)
-<div>
-    <a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=radical&hide_border=true" height="250px" /></a>
-  <br>
-</div>
-<a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awrsha&theme=radical" height="250px" /></a>
-<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical)
+<a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=radical&hide_border=true" height="230px" /></a>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
+![Awrsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awrsha&theme=radical&show_icons=true&hide_border=true)
+<a href="https://github.com/Awrsha"><img alt="Awrsha's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Awrsha&theme=radical&hide_border=true" height="200px" /></a>
+<a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awrsha&theme=radical" height="250px"/></a>
 
 ### Spotify Playing 🎧
 
