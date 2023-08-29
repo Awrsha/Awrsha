@@ -26,9 +26,7 @@
 
 ## About Me ;) 💫
 
-Hello, I'm Amir Mohammad.  A network engineer is a technology professional who has the necessary skills to plan, implement and oversee the computer networks that support in-house voice, data, video and wireless network services. 🌐🗺️
-
-Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users. 💻👾
+Hello, I'm Amir Mohammad. Strong research professional with a Bachelor's degree focused in Computer Science Engineering from Qazvin Azad University. Experienced Researcher with a demonstrated history of working in the research industry. Skilled in Linux System Administration, Robotics , Artificial intelligence , Machine Learning, Data Science and Computer vision. 💻👾
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -48,10 +46,10 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Awrsh
 ## Send your feedbacks 🚀
 
 - My [Linkedin](https://www.linkedin.com/in/Awrsha) account.
-- My Telegram : [Personal](https://t.me/ItsAwrsha) account and [HydraLearn](https://t.me/HydraLearn) Channel.
+- My Telegram : [Personal](https://t.me/AngusAlan) account and [HydraLearn](https://t.me/HydraLearn) Channel.
 - My [Whatsapp](https://wa.me/+989011325118) account.
 - My [Mimo Account](https://getmimo.com/invite/715ay7) account and My [You Tube]() channel.
-- My [Instagram](https://instagram.com/awrsha._.parvizi?utm_medium=copy_link) account.
+- My [Instagram](https://instagram.com/arsha._.parvizi?utm_medium=copy_link) account.
 - My [Google Drive](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk) account.
 - My [Web](https://awrsha.github.io/Resume) site.
 
