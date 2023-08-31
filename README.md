@@ -62,43 +62,92 @@ Reach Me                  | [![Twitter Badge](https://img.shields.io/badge/-Awrs
 ## My Remarkable Projects so far 🧰
 
 <details>
-  <summary>My latest Projects at Jobot Company 🚧</summary>
+  <summary>My Game Projects 🛰️</summary>
   
-  [![DiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=DiscordBot&theme=github_dark)](https://github.com/Awrsha/DiscordBot)
-  [![InstagramBot](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=InstagramBot&theme=github_dark)](https://github.com/Awrsha/InstagramBot)
-  
-</details>
-
-<details>
-  <summary>My Projects at MRL Humanoid 🛰️</summary>
-  
-  [![Histogram Equalizer on Zynq](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Histogram-Equalizer-Image-on-zynq&theme=github_dark)](https://github.com/Awrsha/Histogram-Equalizer-Image-on-zynq)
+  [![Shooter Game](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Shooter-Game&theme=github_dark)](https://github.com/Awrsha/Shooter-Game)
   
 </details>
 
 <details>
-  <summary>My Front-End Projects 🌼</summary>
-  
-  [![Blur with Kernel and Padding](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Blur-with-kernel-and-padding&theme=github_dark)](https://github.com/Awrsha/Blur-with-kernel-and-padding)
-  [![Histogram Equalization](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=HistogramEqualization&theme=github_dark)](https://github.com/Awrsha/HistogramEqualization)
-  [![Soccer Robot Playground](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Soccer-Robot-Playground&theme=github_dark)](https://github.com/Awrsha/Soccer-Robot-Playground) 
-  [![Webcam Threshold](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=webcam-threshHold&theme=github_dark)](https://github.com/Awrsha/webcam-threshHold) 
+  <summary>My Web Projects 🌼</summary>
 
+  [![Soccer Playground](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=SoccorPlayGround&theme=github_dark)](https://github.com/Awrsha/SoccorPlayGround)
+  [![Resume](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Resume&theme=github_dark)](https://github.com/Awrsha/Resume)
+  
 </details>
 
 <details>
-  <summary>My Artificial Intelligence & Machine Learning Projects 🚧</summary>
-
-  [![Blur Image with Kernel](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Blur-image-with-kernel&theme=github_dark)](https://github.com/Awrsha/Blur-image-with-kernel)
+  <summary>My Machine Learning Projects 🚧</summary>
   
 </details>
 
 <details>
   <summary>My Computer Vision Projects 🎞️</summary>
   
+  [![Image Object Detection using Haar Cascades](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Object-Detection-using-Haar-Cascades&theme=github_dark)](https://github.com/Awrsha/Image-Object-Detection-using-Haar-Cascades) [![Image Object Detection using HOG](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Object-Detection-using-HOG&theme=github_dark)](https://github.com/Awrsha/Image-Object-Detection-using-HOG)
+  [![Simple Skin Detection](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Simple-Skin-Detection&theme=github_dark)](https://github.com/Awrsha/Simple-Skin-Detection)
+  [![Image Inpainting](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Inpainting&theme=github_dark)](https://github.com/Awrsha/Image-Inpainting)
+  [![Image Segmentation with GrabCut](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Segmentation-with-GrabCut&theme=github_dark)](https://github.com/Awrsha/Image-Segmentation-with-GrabCut)
+  [![Homography](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Homography&theme=github_dark)](https://github.com/Awrsha/Homography)
+  [![Better Coin Detection](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Better-Coin-Detection&theme=github_dark)](https://github.com/Awrsha/Better-Coin-Detection)
+  [![Simple Coin Counter](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Simple-Coin-Counter&theme=github_dark)](https://github.com/Awrsha/Simple-Coin-Counter)
+  [![Simple BoundingBox](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Simple-BoundingBox&theme=github_dark)](https://github.com/Awrsha/Simple-BoundingBox)
+  [![Dominant Colors](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Dominant-Colors&theme=github_dark)](https://github.com/Awrsha/Dominant-Colors)
+  [![Advanced Histogram Equalization](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Advanced-Histogram-Equalization&theme=github_dark)](https://github.com/Awrsha/Advanced-Histogram-Equalization)
+  [![Simple Color Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Simple-Color-Tracker&theme=github_dark)](https://github.com/Awrsha/Simple-Color-Tracker)
+  [![Image Rotation](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Rotation&theme=github_dark)](https://github.com/Awrsha/Image-Rotation)
+  [![Simple Word Detection](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Simple-Word-Detection&theme=github_dark)](https://github.com/Awrsha/Simple-Word-Detection)
+  [![Adaptive Threshold for Webcam](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Adaptive-Threshold-for-WebCam&theme=github_dark)](https://github.com/Awrsha/Adaptive-Threshold-for-WebCam)
+  [![Adaptive Threshold for Image](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Adaptive-Threshold-for-Image&theme=github_dark)](https://github.com/Awrsha/Adaptive-Threshold-for-Image)
+  [![Otsu Binarization for Car Plate](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Otsu-Binarization-for-Car-Plate&theme=github_dark)](https://github.com/Awrsha/Otsu-Binarization-for-Car-Plate)
+  [![Image Kernel without Padding](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-kernel-without-Padding&theme=github_dark)](https://github.com/Awrsha/Image-kernel-without-Padding)
+  [![Kalman Filter](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Kalman-Filter&theme=github_dark)](https://github.com/Awrsha/Kalman-Filter)
+  [![Image Kernel with Padding](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Kernel-with-Padding&theme=github_dark)](https://github.com/Awrsha/Image-Kernel-with-Padding)
+  [![World Model](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=World-Model&theme=github_dark)](https://github.com/Awrsha/World-Model)
+  [![Histogram Equalizer Image on Zynq](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Histogram-Equalizer-Image-on-zynq&theme=github_dark)](https://github.com/Awrsha/Histogram-Equalizer-Image-on-zynq)
+  [![Image Tresholding](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Tresholding&theme=github_dark)](https://github.com/Awrsha/Image-Tresholding)
+  [![Cartooning Image](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Cartooning-Image&theme=github_dark)](https://github.com/Awrsha/Cartooning-Image)
+  [![Histogram Equalizer for Image](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Histogram-Equalizer-for-Image&theme=github_dark)](https://github.com/Awrsha/Histogram-Equalizer-for-Image)
+  [![Histogram Equalizer for Webcam](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Histogram-Equalizer-for-WebCam&theme=github_dark)](https://github.com/Awrsha/Histogram-Equalizer-for-WebCam)
+  [![Webcam Thresholding](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Webcam-Thresholding&theme=github_dark)](https://github.com/Awrsha/Webcam-Thresholding)
+  [![Principal Component Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Principal-Component-Analysis&theme=github_dark)](https://github.com/Awrsha/Principal-Component-Analysis)
+  [![Image Cropping](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Cropping&theme=github_dark)](https://github.com/Awrsha/Image-Cropping)
+  [![Canny Edge Detector for Image](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Canny-Edge-Detector-for-Image&theme=github_dark)](https://github.com/Awrsha/Canny-Edge-Detector-for-Image)
   [![Robotic Soccer Playground](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=RoboticSoccerPlayGround&theme=github_dark)](https://github.com/Awrsha/RoboticSoccerPlayGround)
   
 </details>
+
+
+<details>
+  <summary>My Network and CCNA Projects 🎞️</summary>
+  
+  [![TCI Packet Tracer Project](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=TCI-Packet-Tracer-Project&theme=github_dark)](https://github.com/Awrsha/TCI-Packet-Tracer-Project) [![Simple Cisco Packet Tracer Projects](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Simple-Cisco-Packet-Tracer-Projects&theme=github_dark)](https://github.com/Awrsha/Simple-Cisco-Packet-Tracer-Projects)
+  
+</details>
+
+<details>
+  <summary>My University Projects 🎞️</summary>
+  
+  [![Digital Systems](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Digital-Systems&theme=github_dark)](https://github.com/Awrsha/Digital-Systems)
+  [![Logical Circuit Laboratory](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Logical-Circuit-Laboratory&theme=github_dark)](https://github.com/Awrsha/Logical-Circuit-Laboratory)
+  [![Computer Graphics](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Computer-Graphics&theme=github_dark)](https://github.com/Awrsha/Computer-Graphics)
+  
+</details>
+
+
+<details>
+  <summary>Another Projects 🎞️</summary>
+  
+  [![Genetic Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Genetic-Algorithm&theme=github_dark)](https://github.com/Awrsha/Genetic-Algorithm)
+  
+  [![System Information Checker](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=System-Information-Checker&theme=github_dark)](https://github.com/Awrsha/System-Information-Checker)
+  
+  [![ATM Simulator](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=ATM-Simulator&theme=github_dark)](https://github.com/Awrsha/ATM-Simulator)
+  
+  [![Sepah Bank](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Sepah-Bank&theme=github_dark)](https://github.com/Awrsha/Sepah-Bank)
+  
+</details>
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
