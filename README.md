@@ -21,7 +21,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&redirect=true)
 
----
 <br>
 
 ## About Me ;) 💫
@@ -202,18 +201,6 @@ Qazvin, Islamic republic of Iran 🇮🇷
 Qazvin, Islamic republic of Iran 🇮🇷
 
 * Drones Vision Group 🕊️
-
-[Ghasedak24](https://ghasedak24.com) :
-
-Tehran, Islamic republic of Iran 🇮🇷
-
-* CRM Administrator 👾
-
-[Jobot](https://jobot.com) :
-
-San Francisco, United States America 🇺🇸
-
-* Computer Vision Engineer 🖼️
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
