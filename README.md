@@ -8,6 +8,10 @@
 </p>
 <br>
 
+<div align="center" style="display:flex;">
+ <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Awrsha&data=followers,repositories,stars,commits&theme=radical" />
+</div>
+
 ## By the way here are some of my statistics 🚀
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical)
