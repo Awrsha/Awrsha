@@ -166,7 +166,7 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 **Duration:** Apr 2021 - Mar 2024 (3 years)  
 **Description:** SYNTECH Technology and Innovation Center, located in Qazvin Azad University, focuses on projects at the convergence of Robotics, Mechanic, AI, Software Development, and Design. As a software engineer, I am involved in developing innovative solutions in various technological domains.
 
-## MRL HSL (Mechatronics and Robotics Lab - High Speed Learning)
+## MRL HSL (Mechatronics and Robotics Lab - Humanoid Soccer Robot ⚽️)
 **Position:** Computer Vision Developer  
 **Duration:** Mar 2022 - Dec 2023 (1 year 10 months)  
 **Description:** MRL HSL aims to become a leading international center for the development of mechatronics and robotics knowledge. As a computer vision developer, I contributed to projects involving advanced visual perception and analysis.
