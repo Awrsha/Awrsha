@@ -21,6 +21,11 @@
 <a href="https://github.com/Awrsha"><img alt="Awrsha's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Awrsha&theme=radical&hide_border=true" height="200px" /></a>
 <a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awrsha&theme=radical" height="250px"/></a>
 
+![](https://github-profile-trophy.vercel.app/?username=Awrsha&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=Awrsha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&redirect=true)
