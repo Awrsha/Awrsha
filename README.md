@@ -155,7 +155,7 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 - [Python GUI, Udemy.](https://www.udemy.com/certificate/UC-61474b52-b274-4054-81ac-2ad4271acbfc/) :eu:
 - [Advanced - Google Analytics, Google Academy.](https://analytics.google.com/analytics/academy/certificate/JO4rNbB1TsyZjDrKVm795Q) :eu:
 - [Google Analytics 360, Google Academy.](https://analytics.google.com/analytics/academy/certificate/tuL7ZhgqQ0afLype42VBRA) :eu:
-
+- [Foundations of Data Science: K-Means Clustering in Python, University of London.](https://coursera.org/share/58c52fad77e85c31a7fb0a179ef43d7f) 🇬🇧
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
