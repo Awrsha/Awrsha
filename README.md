@@ -158,28 +158,28 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 # Work Experience 💼
 
 ## SYNTECH Technology and Innovation Center
-**Position:** Software Engineer  
-**Duration:** Apr 2021 - Mar 2024 (3 years)  
+**Position:** Computer Vision & Machine Learning Researcher  
+**Duration:** Jan 2021 - Mar 2024 (3 yrs 3 mos)  
 **Description:** SYNTECH Technology and Innovation Center, located in Qazvin Azad University, focuses on projects at the convergence of Robotics, Mechanic, AI, Software Development, and Design. As a software engineer, I am involved in developing innovative solutions in various technological domains.
 
 ## MRL HSL (Mechatronics and Robotics Lab - Humanoid Soccer Robot ⚽️)
-**Position:** Computer Vision Developer  
-**Duration:** Mar 2022 - Dec 2023 (1 year 10 months)  
+**Position:** Computer Vision & Artificial Intelligence Developer  
+**Duration:** Mar 2022 - Mar 2024 (2 yrs 1 mo)  
 **Description:** MRL HSL aims to become a leading international center for the development of mechatronics and robotics knowledge. As a computer vision developer, I contributed to projects involving advanced visual perception and analysis.
 
 ## Telecommunication Company of Iran (TCI)
 **Position:** Network & CCNA Intern  
-**Duration:** Jun 2023 - Sep 2023 (4 months)  
+**Duration:** Jun 2023 - Sep 2023 (4 mos)  
 **Description:** TCI is the fixed-line incumbent operator in Iran offering services in Fixed telephony, DSL, and Data services. As an intern, I am gaining hands-on experience in network operations and Cisco Certified Network Associate (CCNA) principles.
 
 ## MRL AMRL (Mechatronics and Robotics Lab - Advanced Mobile Robotics)
-**Position:** Computer Vision Developer  
-**Duration:** Jan 2022 - Dec 2023 (2 years)  
+**Position:** Computer Vision & Robotics Developer  
+**Duration:** Jan 2022 - Mar 2024 (2 yrs 3 mos)  
 **Description:** Similar to MRL HSL, MRL AMRL focuses on advancing knowledge in mechatronics and robotics. As a computer vision developer, I worked on projects aimed at enhancing mobile robot capabilities through vision-based algorithms.
 
 ## BeeHouse Foundation
 **Position:** Software Engineer  
-**Duration:** Jan 2021 - Dec 2022 (1 year)  
+**Duration:** Jan 2021 - Dec 2022 (1 yr)  
 **Description:** BeeHouse Foundation aims to bring magical experiences to those interested in Web 2.0 & Web 3.0. As a software engineer, I contributed to multiple projects, collaborating with experienced team advisors to develop innovative web solutions.
 
 # Teaching Assistant Experience 👩‍🏫
@@ -207,14 +207,14 @@ Excited to contribute to the academic community and support students in their le
 
 ### Bachelor's Degree in Software Engineering  
 - **University:** Qazvin Islamic Azad University (QIAU)  
-- **GPA:** 3.19  
-- **Duration:** 2020 to 2024  
+- **GPA:** 3.2 
+- **Duration:** Oct 2020 to Dec 2023  
 - **Description:** Completed a comprehensive curriculum focusing on various aspects of software engineering, including programming, database management, software development methodologies, and project management. 
 
 ### Mathematics Diploma  
 - **High School:** Aqmashe State Model High School  
 - **GPA:** 3.4  
-- **Duration:** 2017 to 2020  
+- **Duration:** Oct 2016 to Jul 2020  
 - **Description:** Acquired a solid foundation in mathematics and related disciplines, laying the groundwork for further academic pursuits in the field of technology and engineering.
 
 ## Honors & Awards 🏅
