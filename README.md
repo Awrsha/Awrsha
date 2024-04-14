@@ -79,8 +79,8 @@ Reach Me                  | [![Twitter Badge](https://img.shields.io/badge/-Awrs
 <details>
   <summary>My Web Projects 🌼</summary>
 
-  [![Soccer Playground](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=SoccorPlayGround&theme=github_dark)](https://github.com/Awrsha/SoccorPlayGround)
-  [![Resume](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Resume&theme=github_dark)](https://github.com/Awrsha/Resume)
+  [![Soccer Playground](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=SoccorPlayGround&theme=github_dark)](https://github.com/Awrsha/Telecom-Employee-Management-System)
+  [![Resume](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Resume&theme=github_dark)](https://github.com/Awrsha/awrsha.github.io)
   
 </details>
 
