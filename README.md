@@ -53,11 +53,11 @@ Reach Me                  | [![Twitter Badge](https://img.shields.io/badge/-Awrs
 ## Contact Me 🚀
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Awrsha)
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/ArshaParvizi)
+- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/AngusAlan)
 - [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+989011325118)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/arsha._.parvizi?utm_medium=copy_link)
 - [![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk)
-- [![Personal Website](https://img.shields.io/badge/-Personal%20Website-882D17?style=flat&logo=Google-Chrome&logoColor=white)](https://awrsha.github.io/Resume)
+- [![Personal Website](https://img.shields.io/badge/-Personal%20Website-882D17?style=flat&logo=Google-Chrome&logoColor=white)](https://awrsha.github.io)
 - [![Miro](https://img.shields.io/badge/-Miro-FFBF00?style=flat&logo=Miro&logoColor=white)](https://miro.com/)
 - [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white)](https://medium.com/@arshaparvizi)
 - [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/amirmohammadparvizi)
