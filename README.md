@@ -70,55 +70,17 @@ Reach Me                  | [![Twitter Badge](https://img.shields.io/badge/-Awrs
 ## My Remarkable Projects so far 🧰
 
 <details>
-  <summary>My Game Projects 🛰️</summary>
-  
-  [![Shooter Game](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Shooter-Game&theme=github_dark)](https://github.com/Awrsha/Shooter-Game)
-  
-</details>
-
-<details>
-  <summary>My Web Projects 🌼</summary>
-
-  [![Soccer Playground](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=SoccorPlayGround&theme=github_dark)](https://github.com/Awrsha/Telecom-Employee-Management-System)
-  [![Resume](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Resume&theme=github_dark)](https://github.com/Awrsha/awrsha.github.io)
-  
-</details>
-
-<details>
-  <summary>My Machine Learning Projects 🚧</summary>
+  <summary>AI/ML/DL 🚧</summary>
   <!-- Add your machine learning projects here -->
 </details>
 
 <details>
-  <summary>My Computer Vision Projects 🎞️</summary>
-  
-  [![Image Object Detection using Haar Cascades](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Object-Detection-using-Haar-Cascades&theme=github_dark)](https://github.com/Awrsha/Image-Object-Detection-using-Haar-Cascades) [![Image Object Detection using HOG](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Image-Object-Detection-using-HOG&theme=github_dark)](https://github.com/Awrsha/Image-Object-Detection-using-HOG)
-  [![Simple Skin Detection](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Simple-Skin-Detection&theme=github_dark)](https://github.com/Awrsha/Simple-Skin-Detection)
+  <summary>Vision Projects 🎞️</summary>
   <!-- Add more computer vision projects here -->
 </details>
 
 <details>
-  <summary>My Network and CCNA Projects 🎞️</summary>
-  
-  [![TCI Packet Tracer Project](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=TCI-Packet-Tracer-Project&theme=github_dark)](https://github.com/Awrsha/TCI-Packet-Tracer-Project) [![Simple Cisco Packet Tracer Projects](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Simple-Cisco-Packet-Tracer-Projects&theme=github_dark)](https://github.com/Awrsha/Simple-Cisco-Packet-Tracer-Projects)
-  
-</details>
-
-<details>
-  <summary>My University Projects 🎞️</summary>
-  
-  [![Digital Systems](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Digital-Systems&theme=github_dark)](https://github.com/Awrsha/Digital-Systems)
-  [![Logical Circuit Laboratory](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Logical-Circuit-Laboratory&theme=github_dark)](https://github.com/Awrsha/Logical-Circuit-Laboratory)
-  <!-- Add more university projects here -->
-</details>
-
-<details>
   <summary>Another Projects 🎞️</summary>
-  
-  [![Genetic Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=Genetic-Algorithm&theme=github_dark)](https://github.com/Awrsha/Genetic-Algorithm)
-  
-  [![System Information Checker](https://github-readme-stats.vercel.app/api/pin/?username=Awrsha&repo=System-Information-Checker&theme=github_dark)](https://github.com/Awrsha/System-Information-Checker)
-  
   <!-- Add more miscellaneous projects here -->
 </details>
 
@@ -157,30 +119,55 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 # Work Experience 💼
 
-## SYNTECH Technology and Innovation Center
-**Position:** Computer Vision & Machine Learning Researcher  
-**Duration:** Jan 2021 - Mar 2024 (3 yrs 3 mos)  
-**Description:** SYNTECH Technology and Innovation Center, located in Qazvin Azad University, focuses on projects at the convergence of Robotics, Mechanic, AI, Software Development, and Design. As a software engineer, I am involved in developing innovative solutions in various technological domains.
+### **Computational Neuroscience Researcher**  
+**Neuromatch Academy**
+**Beaverton, Oregon, United States**  
 
-## MRL HSL (Mechatronics and Robotics Lab - Humanoid Soccer Robot ⚽️)
-**Position:** Computer Vision & Artificial Intelligence Developer  
-**Duration:** Mar 2022 - Mar 2024 (2 yrs 1 mo)  
-**Description:** MRL HSL aims to become a leading international center for the development of mechatronics and robotics knowledge. As a computer vision developer, I contributed to projects involving advanced visual perception and analysis.
 
-## Telecommunication Company of Iran (TCI)
-**Position:** Network & CCNA Intern  
-**Duration:** Jun 2023 - Sep 2023 (4 mos)  
-**Description:** TCI is the fixed-line incumbent operator in Iran offering services in Fixed telephony, DSL, and Data services. As an intern, I am gaining hands-on experience in network operations and Cisco Certified Network Associate (CCNA) principles.
+Started in response to the COVID-19 pandemic, Neuromatch Academy is a non-profit course in computational neuroscience offered online. We are reaching thousands of students around the globe. 
 
-## MRL AMRL (Mechatronics and Robotics Lab - Advanced Mobile Robotics)
-**Position:** Computer Vision & Robotics Developer  
-**Duration:** Jan 2022 - Mar 2024 (2 yrs 3 mos)  
-**Description:** Similar to MRL HSL, MRL AMRL focuses on advancing knowledge in mechatronics and robotics. As a computer vision developer, I worked on projects aimed at enhancing mobile robot capabilities through vision-based algorithms.
+---
 
-## BeeHouse Foundation
-**Position:** Software Engineer  
-**Duration:** Jan 2021 - Dec 2022 (1 yr)  
-**Description:** BeeHouse Foundation aims to bring magical experiences to those interested in Web 2.0 & Web 3.0. As a software engineer, I contributed to multiple projects, collaborating with experienced team advisors to develop innovative web solutions.
+### **Computer Vision & Machine Learning Researcher**  
+**SYNTECH Technology and Innovation Center**  
+**Qazvin, Qazvin Province, Iran**  
+
+The SYNTECH Technology and Innovation Center, situated within the premises of Qazvin Azad University, is dedicated to projects at the intersection of Robotics, Mechanics, Artificial Intelligence, Software Development, and Design. In my role as a software engineer, I was actively engaged in creating cutting-edge solutions across a range of technological fields.  
+
+---
+
+### **Computer Vision & Artificial Intelligence Developer**  
+**MRL Humanoid**  
+**Qazvin, Qazvin Province, Iran**  
+
+The MRL center consists of several specialized teams, each dedicated to unique robotics projects. I had the privilege of collaborating with the team focused on humanoid robots, renowned for their advanced robots capable of playing football with a remarkably human-like appearance.  
+
+---
+
+### **Computer Vision & Robotics Developer**  
+**MRL (Mechatronics Research Laboratory)**  
+**Qazvin, Qazvin Province, Iran**  
+
+The MRL center consists of various teams dedicated to the development of individual robots. Initially, I collaborated with the Unmanned Aerial Vehicle (UAV) team, contributing to advancing robotics through vision-based algorithms.  
+
+---
+
+### **Telecommunication Company of Iran (TCI)**  
+**Qazvin, Qazvin Province, Iran**  
+
+During my internship at Qazvin Islamic Azad University, I had the privilege of working under the supervision of Dr. Zeinali, a distinguished individual with a PhD in computer science and the esteemed position of CEO at the university.  
+
+---
+
+### **Software Engineer**  
+**BeeHouse Foundation**  
+**Vancouver, British Columbia, Canada**  
+
+During my internship, I was employed at a company initially named Richedu, which later rebranded as BeeHouse Foundation.  
+
+Through a training program attended by a diverse group of international trainees, we received instruction in the Python programming language, covering both basic and advanced concepts.
+
+--- 
 
 # Teaching Assistant Experience 👩‍🏫
 
