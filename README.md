@@ -8,14 +8,6 @@
   <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="Just for fun :D">
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Awrsha&data=followers,repositories,stars,commits&theme=radical" alt="Profile Widget" />
-</div>
-
----
-
 <h2 align="center">📊 My GitHub Statistics 🚀</h2>
 
 <div align="center">
