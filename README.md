@@ -1,36 +1,63 @@
-
 <h1 align="center">
-  <a href="https://github.com/Awrsha"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></a>
+  <a href="https://github.com/Awrsha">
+    <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="25%" alt="Hello">
+  </a>
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="just for fun :D">
+  <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="Just for fun :D">
 </p>
-<br>
 
-<div align="center" style="display:flex;">
- <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Awrsha&data=followers,repositories,stars,commits&theme=radical" />
+---
+
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Awrsha&data=followers,repositories,stars,commits&theme=radical" alt="Profile Widget" />
 </div>
 
-## By the way here are some of my statistics 🚀
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical)
-<a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=radical&hide_border=true" height="230px" /></a>
+<h2 align="center">📊 My GitHub Statistics 🚀</h2>
 
-![Awrsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awrsha&theme=radical&show_icons=true&hide_border=true)
-<a href="https://github.com/Awrsha"><img alt="Awrsha's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Awrsha&theme=radical&hide_border=true" height="200px" /></a>
-<a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awrsha&theme=radical" height="250px"/></a>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical" alt="Repositories Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical" alt="Most Committed Language" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Awrsha&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" height="180px" />
+</div>
 
-### Spotify Playing 🎧
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Awrsha&theme=radical&hide_border=true" alt="GitHub Streak" height="180px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awrsha&theme=radical" alt="Profile Summary" height="250px" />
+</div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&redirect=true)
+---
 
-<br>
+<h2 align="center">🎵 Currently Listening On Spotify 🎧</h2>
 
-## About Me ;) 💫
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+  </a>
+</div>
 
-Hello, I'm Amir Mohammad. Strong research professional with a Bachelor's degree focused in Computer Science Engineering from Qazvin Azad University. Experienced Researcher with a demonstrated history of working in the research industry. Skilled in Robotics , Artificial intelligence , Machine Learning and Computer vision. 💻👾
+---
+
+<h2 align="center">✨ About Me 💫</h2>
+
+<div align="left">
+  <p>
+    👋 Hi there! I'm <b>Amir Mohammad</b>, a passionate researcher and developer. I hold a Bachelor's degree in Computer Science Engineering from <b>Qazvin Azad University</b>.
+  </p>
+  <p>
+    💻 I specialize in <b>Robotics</b>, <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Computer Vision</b>.
+  </p>
+  <p>
+    🔬 With a strong research background, I aim to innovate and solve complex problems in the tech world.
+  </p>
+</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -50,17 +77,37 @@ Reach Me                  | [![Twitter Badge](https://img.shields.io/badge/-Awrs
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Contact Me 🚀
+## 🌟 Contact Me 🚀
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Awrsha)
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/AngusAlan)
-- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+989011325118)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/arsha._.parvizi?utm_medium=copy_link)
-- [![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk)
-- [![Personal Website](https://img.shields.io/badge/-Personal%20Website-882D17?style=flat&logo=Google-Chrome&logoColor=white)](https://awrsha.github.io)
-- [![Miro](https://img.shields.io/badge/-Miro-FFBF00?style=flat&logo=Miro&logoColor=white)](https://miro.com/)
-- [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white)](https://medium.com/@arshaparvizi)
-- [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/amirmohammadparvizi)
+<p align="center">
+  <a href="https://www.linkedin.com/in/Awrsha">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/AngusAlan">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://wa.me/+989011325118">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://instagram.com/arsha._.parvizi?utm_medium=copy_link">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://drive.google.com/file/d/1-JAbCn7hOPv5mH65cUzajzVyyNWV5VTR/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/-Google%20Drive-4285F4?style=for-the-badge&logo=Google-Drive&logoColor=white" alt="Google Drive">
+  </a>
+  <a href="https://awrsha.github.io">
+    <img src="https://img.shields.io/badge/-Personal%20Website-882D17?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Personal Website">
+  </a>
+  <a href="https://miro.com/">
+    <img src="https://img.shields.io/badge/-Miro-FFBF00?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro">
+  </a>
+  <a href="https://medium.com/@arshaparvizi">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://www.kaggle.com/amirmohammadparvizi">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</p>
 
 
 
@@ -93,81 +140,124 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Certifications 🏆
+# 🎓 Professional Certifications & Courses
 
-- [Advanced Computer Vision with Tensorflow, Deeplearning.ai.](https://coursera.org/share/ab1b8d53d46799f97104663d6c5d609e) :us:
-- [Fundamentals of Reinforcement Learning, University of Alberta.](https://coursera.org/share/3f4964a84e23f615f5d56c1797c97291) :canada:
-- [Robotics : Aerial Robotics, University of Pennsylvania.](https://coursera.org/share/20c0c0e2fbee0edb51b84b459be558a4) :us:
-- [Unsupervised Machine Learning: Recommenders, Reinforcement Learning, Deeplearning.ai.](https://coursera.org/share/9f22a0c8d78396ef22df324019bf91e5) :us:
-- [Introduction to Computer Vision and Image Processing, IMB.](https://coursera.org/share/bcfccc8c4454aef6b03aa98e4f430a8b) :us:
-- [AI, Empathy & Ethics, University of California, Santa Cruz.](https://coursera.org/share/6a05ef01236612e03618ac75af9b414b) :us:
-- [Deep Learning with PyTorch : Image Segmentation, Coursera Project Network.](https://coursera.org/share/ab7f441a10218f9dda74664bff59d0f6) :us:
-- [Supervised Machine Learning: Regression and classification, Deeplearning.ai.](https://coursera.org/share/bc28485bdebe5717b142f40ef2f2a66c) :us:
-- [AI for everyone,  Deeplearning.ai.](https://coursera.org/share/b22ea61a6b4223866825ac2c0236b5d4) :us:
-- [Learn to program: The Fandamentals, University of Toronto](https://coursera.org/share/e3520706710cfaf0041c56cf533d9ed3) :canada:
-- [Elements of Artificial Intelligents,  Helsinki, Finland.](https://certificates.mooc.fi/validate/uwzjs879c1) :finland:
-- [Getting started with Python, University of Michigan.](https://drive.google.com/drive/folders/1cl9HJiZcHrfrzeH-H5YNxuBWeh_uKC-V) :us:
-- [Machine Learning Basic - Sungkyunkwan University.](https://coursera.org/verify/M9XBFYE7VJSW) :kr:
-- [Beginning - Google Analytics, Google Academy.](https://analytics.google.com/analytics/academy/certificate/7v9YWTp9TRibZ68pZkreAA) :eu:
-- [Learn jQuery, Udemy.](https://www.udemy.com/certificate/UC-22ac08d0-8085-4f4e-bb1a-f7a77c8c1f0a/) :india:
-- [Python GUI, Udemy.](https://www.udemy.com/certificate/UC-61474b52-b274-4054-81ac-2ad4271acbfc/) :eu:
-- [Advanced - Google Analytics, Google Academy.](https://analytics.google.com/analytics/academy/certificate/JO4rNbB1TsyZjDrKVm795Q) :eu:
-- [Google Analytics 360, Google Academy.](https://analytics.google.com/analytics/academy/certificate/tuL7ZhgqQ0afLype42VBRA) :eu:
-- [Foundations of Data Science: K-Means Clustering in Python, University of London.](https://coursera.org/share/58c52fad77e85c31a7fb0a179ef43d7f) 🇬🇧
+### 🤖 Artificial Intelligence & Machine Learning
+
+- [Advanced Computer Vision with Tensorflow](https://coursera.org/share/ab1b8d53d46799f97104663d6c5d609e) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/bc28485bdebe5717b142f40ef2f2a66c) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- [AI For Everyone](https://coursera.org/share/b22ea61a6b4223866825ac2c0236b5d4) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- [Elements of Artificial Intelligence](https://certificates.mooc.fi/validate/uwzjs879c1) `University of Helsinki` ![United Nations](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/unitednations.png "United Nations")
+- [Machine Learning Basic](https://coursera.org/verify/M9XBFYE7VJSW) `Sungkyunkwan University` ![Korea](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png "Korea")
+
+### 🖼️ Computer Vision & Image Processing
+
+- [Introduction to Computer Vision and Image Processing](https://coursera.org/share/bcfccc8c4454aef6b03aa98e4f430a8b) `IBM` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- [Deep Learning with PyTorch: Image Segmentation](https://coursera.org/share/ab7f441a10218f9dda74664bff59d0f6) `Coursera Project Network` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+
+### 🎮 Reinforcement Learning & Robotics
+
+- [Fundamentals of Reinforcement Learning](https://coursera.org/share/3f4964a84e23f615f5d56c1797c97291) `University of Alberta` ![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png "Canada")
+- [Robotics: Aerial Robotics](https://coursera.org/share/20c0c0e2fbee0edb51b84b459be558a4) `University of Pennsylvania` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- [Unsupervised Machine Learning: Recommenders, Reinforcement Learning](https://coursera.org/share/9f22a0c8d78396ef22df324019bf91e5) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+
+### 🧮 Data Science & Analytics
+
+- [Foundations of Data Science: K-Means Clustering in Python](https://coursera.org/share/58c52fad77e85c31a7fb0a179ef43d7f) `University of London` ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
+- [Beginning Google Analytics](https://analytics.google.com/analytics/academy/certificate/7v9YWTp9TRibZ68pZkreAA) `Google Academy` ![European Union](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/europeanunion.png "European Union")
+- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/JO4rNbB1TsyZjDrKVm795Q) `Google Academy` ![European Union](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/europeanunion.png "European Union")
+- [Google Analytics 360](https://analytics.google.com/analytics/academy/certificate/tuL7ZhgqQ0afLype42VBRA) `Google Academy` ![European Union](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/europeanunion.png "European Union")
+
+### 💻 Programming & Development
+
+- [Learn to Program: The Fundamentals](https://coursera.org/share/e3520706710cfaf0041c56cf533d9ed3) `University of Toronto` ![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png "Canada")
+- [Getting Started with Python](https://drive.google.com/drive/folders/1cl9HJiZcHrfrzeH-H5YNxuBWeh_uKC-V) `University of Michigan` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- [Learn jQuery](https://www.udemy.com/certificate/UC-22ac08d0-8085-4f4e-bb1a-f7a77c8c1f0a/) `Udemy` ![India](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png "India")
+- [Python GUI](https://www.udemy.com/certificate/UC-61474b52-b274-4054-81ac-2ad4271acbfc/) `Udemy` ![European Union](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/europeanunion.png "European Union")
+
+### 🤝 Ethics & Professional Development
+
+- [AI, Empathy & Ethics](https://coursera.org/share/6a05ef01236612e03618ac75af9b414b) `University of California, Santa Cruz` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-# Work Experience 💼
+# 💼 Professional Journey
 
-### **Computational Neuroscience Researcher**  
-**Neuromatch Academy**
-**Beaverton, Oregon, United States**  
+## 🧠 Computational Neuroscience Researcher
+<img align="right" width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7drOjdTxbVoxuTNY67NBehtYBRP3mZqx5w&s"/>
 
+**🏢 Neuromatch Academy** | *Beaverton, Oregon, USA*  
+`2023 - Present`
 
-Started in response to the COVID-19 pandemic, Neuromatch Academy is a non-profit course in computational neuroscience offered online. We are reaching thousands of students around the globe. 
-
----
-
-### **Computer Vision & Machine Learning Researcher**  
-**SYNTECH Technology and Innovation Center**  
-**Qazvin, Qazvin Province, Iran**  
-
-The SYNTECH Technology and Innovation Center, situated within the premises of Qazvin Azad University, is dedicated to projects at the intersection of Robotics, Mechanics, Artificial Intelligence, Software Development, and Design. In my role as a software engineer, I was actively engaged in creating cutting-edge solutions across a range of technological fields.  
+> Pioneering online computational neuroscience education during COVID-19, impacting thousands globally
+- 🌍 Contributed to global science education accessibility
+- 🧪 Developed computational models of neural systems
+- 📊 Applied advanced data analysis techniques
 
 ---
 
-### **Computer Vision & Artificial Intelligence Developer**  
-**MRL Humanoid**  
-**Qazvin, Qazvin Province, Iran**  
+## 👁️ Computer Vision & ML Researcher
+<img align="right" width="150" src="https://www.iasp.ws/media/imagegenerator/290x290/upscale(false)/canvascolor(0xffffffff)/2017_07_31_SYNTECH.png"/>
 
-The MRL center consists of several specialized teams, each dedicated to unique robotics projects. I had the privilege of collaborating with the team focused on humanoid robots, renowned for their advanced robots capable of playing football with a remarkably human-like appearance.  
+**🏢 SYNTECH Technology and Innovation Center** | *Qazvin, Iran*  
+`2022 - 2023`
 
----
-
-### **Computer Vision & Robotics Developer**  
-**MRL (Mechatronics Research Laboratory)**  
-**Qazvin, Qazvin Province, Iran**  
-
-The MRL center consists of various teams dedicated to the development of individual robots. Initially, I collaborated with the Unmanned Aerial Vehicle (UAV) team, contributing to advancing robotics through vision-based algorithms.  
+> Advanced technological solutions at the convergence of AI and robotics
+- 🤖 Developed cutting-edge robotics solutions
+- 🧠 Implemented machine learning algorithms
+- 💻 Created innovative software applications
 
 ---
 
-### **Telecommunication Company of Iran (TCI)**  
-**Qazvin, Qazvin Province, Iran**  
+## 🤖 Computer Vision & AI Developer
+<img align="right" width="150" src="https://avatars.githubusercontent.com/u/49516884?s=280&v=4"/>
 
-During my internship at Qazvin Islamic Azad University, I had the privilege of working under the supervision of Dr. Zeinali, a distinguished individual with a PhD in computer science and the esteemed position of CEO at the university.  
+**🏢 MRL Humanoid** | *Qazvin, Iran*  
+`2021 - 2022`
+
+> Specialized in humanoid robotics and advanced AI systems
+- 🦿 Developed vision systems for humanoid robots
+- ⚽ Implemented algorithms for robotic football players
+- 🔬 Conducted research in human-like robot behaviors
 
 ---
 
-### **Software Engineer**  
-**BeeHouse Foundation**  
-**Vancouver, British Columbia, Canada**  
+## 🚁 Computer Vision & Robotics Developer
+<img align="right" width="150" src="https://media.licdn.com/dms/image/v2/C4E0BAQFsdlAwMxEPVg/company-logo_200_200/company-logo_200_200/0/1630635749421/mrl_qiau_logo?e=2147483647&v=beta&t=q0sh56aIkOjAt7JR_l-fIy1NMYb-BBBIHuvosNRRWyI"/>
 
-During my internship, I was employed at a company initially named Richedu, which later rebranded as BeeHouse Foundation.  
+**🏢 MRL (Mechatronics Research Laboratory)** | *Qazvin, Iran*  
+`2020 - 2021`
 
-Through a training program attended by a diverse group of international trainees, we received instruction in the Python programming language, covering both basic and advanced concepts.
+> Focus on UAV development and vision-based algorithms
+- 📷 Developed computer vision algorithms
+- 🛩️ Worked on UAV navigation systems
+- 🔧 Implemented robotics control systems
 
---- 
+---
+
+## 📡 Research Intern
+<img align="right" width="150" src="https://lh3.googleusercontent.com/proxy/4CAFxHkQ9u6Q4zpGcJNBDWVxT7sst9m8p3BNZRmBm8gZGtnePh4vtuYISTSx72fnJXZKm9c0O9ENDyH1GgH2XlENrJxZEG3S7LT6aMRs7NzNOysaHjzK6Eo"/>
+
+**🏢 Telecommunication Company of Iran (TCI)** | *Qazvin, Iran*  
+`2020`
+
+> Internship under Dr. Zeinali, University CEO
+- 📱 Telecommunications systems research
+- 🔍 Network optimization studies
+- 💡 Innovation in communication technologies
+
+---
+
+## 💻 Software Engineer
+<img align="right" width="150" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/cicqhewbdg1kqawlzbqn"/>
+
+**🏢 BeeHouse Foundation** | *Vancouver, BC, Canada*  
+`2019`
+
+> Comprehensive Python development training program
+- 🐍 Advanced Python programming
+- 👥 International collaboration
+- 📚 Full-stack development training
 
 # Teaching Assistant Experience 👩‍🏫
 
