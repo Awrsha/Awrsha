@@ -228,7 +228,7 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 ---
 
 ## 📡 Research Intern
-<img align="right" width="150" src="https://lh3.googleusercontent.com/proxy/4CAFxHkQ9u6Q4zpGcJNBDWVxT7sst9m8p3BNZRmBm8gZGtnePh4vtuYISTSx72fnJXZKm9c0O9ENDyH1GgH2XlENrJxZEG3S7LT6aMRs7NzNOysaHjzK6Eo"/>
+<img align="right" width="150" src="https://tavantahlil.com/wp-content/uploads/2020/08/akhaber-technical-analysis-780x470.jpg"/>
 
 **🏢 Telecommunication Company of Iran (TCI)** | *Qazvin, Iran*  
 `2020`
