@@ -41,13 +41,9 @@
 
 <div align="left">
   <p>
-    👋 Hi there! I'm <b>Amir Mohammad</b>, a passionate researcher and developer. I hold a Bachelor's degree in Computer Science Engineering from <b>Qazvin Azad University</b>.
-  </p>
-  <p>
-    💻 I specialize in <b>Robotics</b>, <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Computer Vision</b>.
-  </p>
-  <p>
-    🔬 With a strong research background, I aim to innovate and solve complex problems in the tech world.
+    👋 Hello, my name is Amir Mohammad, but you can call me Amir or Arsha. I am a software engineering graduate with a strong passion for artificial intelligence and computer vision, both in industrial applications and research contexts. My aspirations include contributing to innovative projects, collaborating on cutting-edge research with international scholars and esteemed professors, and publishing impactful articles in the field.
+
+I am committed to advancing my expertise by pursuing a PhD with a focus on AI and computer vision, aiming to secure a prestigious scholarship. My ultimate goal is to work with prominent companies, where I can apply my skills to solve real-world problems while making meaningful contributions to science and technology.
   </p>
 </div>
 
@@ -175,24 +171,11 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 # 💼 Professional Journey
 
-## 🧠 Computational Neuroscience Researcher
-<img align="right" width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7drOjdTxbVoxuTNY67NBehtYBRP3mZqx5w&s"/>
-
-**🏢 Neuromatch Academy** | *Beaverton, Oregon, USA*  
-`2023 - Present`
-
-> Pioneering online computational neuroscience education during COVID-19, impacting thousands globally
-- 🌍 Contributed to global science education accessibility
-- 🧪 Developed computational models of neural systems
-- 📊 Applied advanced data analysis techniques
-
----
-
-## 👁️ Computer Vision & ML Researcher
+## 👁️ Machine Learning & Deep Learning Enthusiast | Computer Vision Specialist | AI System Designer
 <img align="right" width="150" src="https://www.iasp.ws/media/imagegenerator/290x290/upscale(false)/canvascolor(0xffffffff)/2017_07_31_SYNTECH.png"/>
 
-**🏢 SYNTECH Technology and Innovation Center** | *Qazvin, Iran*  
-`2022 - 2023`
+**🏢 SYNTECH Technology and Innovation Center** | *Qazvin, Qazvin Province, Iran*  
+`Jan 2021 - Dec 2024 · 4 yrs`
 
 > Advanced technological solutions at the convergence of AI and robotics
 - 🤖 Developed cutting-edge robotics solutions
@@ -201,11 +184,11 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 ---
 
-## 🤖 Computer Vision & AI Developer
+## 🤖 Machine Learning & Deep Learning Enthusiast | Computer Vision Specialist | AI System Designer
 <img align="right" width="150" src="https://avatars.githubusercontent.com/u/49516884?s=280&v=4"/>
 
-**🏢 MRL Humanoid** | *Qazvin, Iran*  
-`2021 - 2022`
+**🏢 MRL (Mechatronics Research Laboratory) Humanoid** | *Qazvin, Qazvin Province, Iran*  
+`Jan 2022 - Dec 2024 · 3 yrs`
 
 > Specialized in humanoid robotics and advanced AI systems
 - 🦿 Developed vision systems for humanoid robots
@@ -214,11 +197,11 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 ---
 
-## 🚁 Computer Vision & Robotics Developer
+## 🚁 Machine Learning & Deep Learning Enthusiast | Computer Vision Specialist | AI System Designer
 <img align="right" width="150" src="https://media.licdn.com/dms/image/v2/C4E0BAQFsdlAwMxEPVg/company-logo_200_200/company-logo_200_200/0/1630635749421/mrl_qiau_logo?e=2147483647&v=beta&t=q0sh56aIkOjAt7JR_l-fIy1NMYb-BBBIHuvosNRRWyI"/>
 
-**🏢 MRL (Mechatronics Research Laboratory)** | *Qazvin, Iran*  
-`2020 - 2021`
+**🏢 MRL (Mechatronics Research Laboratory) AMRL** | *Qazvin, Qazvin Province, Iran*  
+`Jan 2022 - Dec 2024 · 3 yrs`
 
 > Focus on UAV development and vision-based algorithms
 - 📷 Developed computer vision algorithms
@@ -227,11 +210,11 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 ---
 
-## 📡 Research Intern
+## 📡 Django (T-SQL & Fast API) Developer
 <img align="right" width="150" src="https://tavantahlil.com/wp-content/uploads/2020/08/akhaber-technical-analysis-780x470.jpg"/>
 
-**🏢 Telecommunication Company of Iran (TCI)** | *Qazvin, Iran*  
-`2020`
+**🏢 Telecommunication Company of Iran (TCI)** | *Qazvin, Qazvin Province, Iran*  
+`Jun 2023 - Jan 2024 · 8 mos`
 
 > Internship under Dr. Zeinali, University CEO
 - 📱 Telecommunications systems research
@@ -240,11 +223,11 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 ---
 
-## 💻 Software Engineer
+## 💻 Junior Software Engineer
 <img align="right" width="150" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/cicqhewbdg1kqawlzbqn"/>
 
 **🏢 BeeHouse Foundation** | *Vancouver, BC, Canada*  
-`2019`
+`Jan 2021 - Dec 2021 · 1 yr`
 
 > Comprehensive Python development training program
 - 🐍 Advanced Python programming
