@@ -10,22 +10,16 @@
 
 <h2 align="center">📊 My GitHub Statistics 🚀</h2>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical" alt="Repositories Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical" alt="Most Committed Language" />
+<h3>Github Stats  🚀</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awrsha&theme=blueberry)
+
+<div style="display: flex; flex-direction: row; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=awrsha&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="awrsha's GitHub Streak" height="200">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Awrsha&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" height="180px" />
-</div>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=awrsha&theme=github-compact)](https://github.com/awrsha/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Awrsha&theme=radical&hide_border=true" alt="GitHub Streak" height="180px" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awrsha&theme=radical" alt="Profile Summary" height="250px" />
-</div>
-
----
 
 <h2 align="center">🎵 Currently Listening On Spotify 🎧</h2>
 
