@@ -10,7 +10,10 @@
 
 <h2 align="center">📊 My GitHub Statistics 🚀</h2>
 
-<h3>Github Stats  🚀</h3>
+## By the way here are some of my statistics 🚀
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical)
+<a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=radical&hide_border=true" height="230px" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awrsha&theme=blueberry)
 
