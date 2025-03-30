@@ -269,20 +269,6 @@ Excited to contribute to the academic community and support students in their le
 - **Duration:** Oct 2016 to Jul 2020  
 - **Description:** Acquired a solid foundation in mathematics and related disciplines, laying the groundwork for further academic pursuits in the field of technology and engineering.
 
-## Honors & Awards 🏅
-
-### Highest GPA in the Semester
-- **Date:** January 2024
-- **Institution:** Qazvin Islamic Azad University
-- **Description:** Achieved the highest GPA among all students in the last semester, earning a GPA of 4 (equivalent to A+) in the American and Canadian university system. Recognized for outstanding academic performance, awarded with a tuition discount for excellence and graduating ahead of the original schedule.
-
-### Accelerated Bachelor's Degree
-- **Date:** January 2024
-- **Institution:** Qazvin Islamic Azad University
-- **Description:** Successfully completed the bachelor's degree program in 7 terms instead of the standard 8, meeting all deadlines despite challenges posed by the pandemic and virtual learning. Graduated six months ahead of the original timeline, maintaining high grades of A and A+ throughout. Received a 15% tuition discount for exceptional academic achievements, including passing all courses on the first attempt with a flawless record.
-
-
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 Amir M. Parvizi ♥️
