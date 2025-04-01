@@ -41,7 +41,7 @@
 
 <div align="left">
   <p>
-    👋 Hello, my name is Amir Mohammad, but you can call me Amir or Arsha. I am a software engineering graduate with a strong passion for artificial intelligence and computer vision, both in industrial applications and research contexts. My aspirations include contributing to innovative projects, collaborating on cutting-edge research with international scholars and esteemed professors, and publishing impactful articles in the field.
+    👋 Hello, my name is Amir Mohammad, but you can call me Amir. I am a software engineering graduate with a strong passion for artificial intelligence and computer vision, both in industrial applications and research contexts. My aspirations include contributing to innovative projects, collaborating on cutting-edge research with international scholars and esteemed professors, and publishing impactful articles in the field.
 
 I am committed to advancing my expertise by pursuing a PhD with a focus on AI and computer vision, aiming to secure a prestigious scholarship. My ultimate goal is to work with prominent companies, where I can apply my skills to solve real-world problems while making meaningful contributions to science and technology.
   </p>
