@@ -242,7 +242,7 @@ During my academic journey, I've had the privilege to serve as a Teaching Assist
   *Professor: Dr. Azadeh Pourkabirian*
 
 - **Multimedia Systems**  
-  *Professor: Dr. Amir Masoud Eftekhari Moghadam*
+  *Professor: Dr. Amir Masoud Eftekhari Moghaddam*
 
 - **Research Method, Research, and Presentation**  
   *Professor: Dr. Amir Masoud Eftekhari Moghadam*
