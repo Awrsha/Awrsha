@@ -210,7 +210,7 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 ---
 
-## 📡 Django (T-SQL & Fast API) Developer
+## 📡 Django Developer
 <img align="right" width="150" src="https://tavantahlil.com/wp-content/uploads/2020/08/akhaber-technical-analysis-780x470.jpg"/>
 
 **🏢 Telecommunication Company of Iran (TCI)** | *Qazvin, Qazvin Province, Iran*  
