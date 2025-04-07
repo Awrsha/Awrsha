@@ -258,7 +258,7 @@ Excited to contribute to the academic community and support students in their le
 ## Education 🎓
 
 ### Bachelor's Degree in Software Engineering  
-- **University:** Qazvin Islamic Azad University (QIAU)  
+- **University:** Qazvin Islamic Azad University *(QIAU)*
 - **GPA:** 3.2 
 - **Duration:** Oct 2020 to Dec 2023  
 - **Description:** Completed a comprehensive curriculum focusing on various aspects of software engineering, including programming, database management, software development methodologies, and project management. 
