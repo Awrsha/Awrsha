@@ -171,44 +171,72 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 # 💼 Professional Journey
 
-## 👁️ Machine Learning & Deep Learning Enthusiast | Computer Vision Specialist | AI System Designer
+## 🔬 R&D Specialist | Software Engineer
+<img align="right" width="150" src="https://avatars.githubusercontent.com/u/placeholder"/>
+
+**🏢 TOSANTECHNO** | *Location TBD*  
+`Jun 2025 - Present`
+
+> Cutting-edge research and development in software engineering
+- 🚀 Leading innovative software solutions
+- 🔬 Conducting advanced R&D projects
+- 💻 Developing next-generation applications
+
+---
+
+## 🧠 AI Enthusiast & Researcher
+<img align="right" width="150" src="https://neuromatch.io/static/media/logo.png"/>
+
+**🏢 Neuromatch Academy** | *Los Angeles, California, United States (Remote)*  
+`Jul 2025 - Present`
+
+> Advanced AI research and computational neuroscience
+- 🔬 Participated in intensive AI research program
+- 🧠 Studied computational neuroscience principles
+- 📊 Collaborated on data-driven research projects
+- 🌐 Engaged with global research community
+
+---
+
+## 🔧 R&D Specialist | Software Engineer
+<img align="right" width="150" src="https://avatars.githubusercontent.com/u/placeholder"/>
+
+**🏢 Mammut Group** | *Karaj, Alborz Province, Iran (Hybrid)*  
+`Mar 2024 - Dec 2024 · 10 mos` | *Contract*
+
+> Research and development in enterprise software solutions
+- 🏗️ Architected scalable software systems
+- 🔍 Led research initiatives for innovative solutions
+- 👥 Collaborated with cross-functional teams
+- 📈 Delivered high-impact R&D projects
+
+---
+
+## 👁️ AI Enthusiast | Computer Vision Specialist
 <img align="right" width="150" src="https://www.iasp.ws/media/imagegenerator/290x290/upscale(false)/canvascolor(0xffffffff)/2017_07_31_SYNTECH.png"/>
 
-**🏢 SYNTECH Technology and Innovation Center** | *Qazvin, Qazvin Province, Iran*  
-`Jan 2021 - Dec 2024 · 4 yrs`
+**🏢 SYNTECH Technology and Innovation Center** | *Qazvin, Qazvin Province, Iran (Hybrid)*  
+`Jan 2021 - Dec 2024 · 4 yrs` | *Part-time*
 
 > Advanced technological solutions at the convergence of AI and robotics
 - 🤖 Developed cutting-edge robotics solutions
 - 🧠 Implemented machine learning algorithms
 - 💻 Created innovative software applications
+- 🔬 Researched emerging AI technologies
 
 ---
 
-## 🤖 Machine Learning & Deep Learning Enthusiast | Computer Vision Specialist | AI System Designer
+## 🤖 AI Enthusiast | Computer Vision Specialist
 <img align="right" width="150" src="https://avatars.githubusercontent.com/u/49516884?s=280&v=4"/>
 
-**🏢 MRL (Mechatronics Research Laboratory) Humanoid** | *Qazvin, Qazvin Province, Iran*  
-`Jan 2022 - Dec 2024 · 3 yrs`
+**🏢 MRL Humanoid** | *Qazvin, Qazvin Province, Iran (Hybrid)*  
+`Jan 2022 - Dec 2023 · 2 yrs` | *Full-time*
 
 > Specialized in humanoid robotics and advanced AI systems
 - 🦿 Developed vision systems for humanoid robots
 - ⚽ Implemented algorithms for robotic football players
 - 🔬 Conducted research in human-like robot behaviors
-
----
-
-## 🚁 Machine Learning & Deep Learning Enthusiast | Computer Vision Specialist | AI System Designer
-<img align="right" width="150" src="https://media.licdn.com/dms/image/v2/C4E0BAQFsdlAwMxEPVg/company-logo_200_200/company-logo_200_200/0/1630635749421/mrl_qiau_logo?e=2147483647&v=beta&t=q0sh56aIkOjAt7JR_l-fIy1NMYb-BBBIHuvosNRRWyI"/>
-
-**🏢 MRL (Mechatronics Research Laboratory) AMRL** | *Qazvin, Qazvin Province, Iran*  
-`Jan 2022 - Dec 2024 · 3 yrs`
-
-> Focus on UAV development and vision-based algorithms
-- 📷 Developed computer vision algorithms
-- 🛩️ Worked on UAV navigation systems
-- 🔧 Implemented robotics control systems
-
----
+- 🎯 Optimized real-time computer vision algorithms
 
 ## 📡 Django Developer
 <img align="right" width="150" src="https://tavantahlil.com/wp-content/uploads/2020/08/akhaber-technical-analysis-780x470.jpg"/>
