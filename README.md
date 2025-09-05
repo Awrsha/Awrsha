@@ -223,17 +223,6 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 ---
 
-## 💻 Junior Software Engineer
-<img align="right" width="150" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/cicqhewbdg1kqawlzbqn"/>
-
-**🏢 BeeHouse Foundation** | *Vancouver, BC, Canada*  
-`Jan 2021 - Dec 2021 · 1 yr`
-
-> Comprehensive Python development training program
-- 🐍 Advanced Python programming
-- 👥 International collaboration
-- 📚 Full-stack development training
-
 # Teaching Assistant Experience 👩‍🏫
 
 During my academic journey, I've had the privilege to serve as a Teaching Assistant (TA) for the following courses:
