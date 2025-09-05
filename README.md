@@ -132,6 +132,7 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
+- [Computational Neuroscience](https://portal.neuromatchacademy.org/certificate/ec8f2cd1-8df4-4a83-83c7-c644f000b509) `NeuroMatch Academy` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 - [Advanced Computer Vision with Tensorflow](https://coursera.org/share/ab1b8d53d46799f97104663d6c5d609e) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/bc28485bdebe5717b142f40ef2f2a66c) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 - [AI For Everyone](https://coursera.org/share/b22ea61a6b4223866825ac2c0236b5d4) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
