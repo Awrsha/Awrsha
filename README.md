@@ -174,7 +174,7 @@ Please feel free to reach out via [Email](mailto:official.parvizi@gmail.com) if 
 ## 🔬 R&D Specialist | Software Engineer
 <img align="right" width="150" src="https://avatars.githubusercontent.com/u/placeholder"/>
 
-**🏢 TOSANTECHNO** | *Location TBD*  
+**🏢 TOSANTECHNO** | *Tehran, Tehran Province, Iran*  
 `Jun 2025 - Present`
 
 > Cutting-edge research and development in software engineering
