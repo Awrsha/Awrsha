@@ -4,234 +4,302 @@
   </a>
 </h1>
 
+<h2 align="center">✨ Amir M. Parvizi – Senior R&D Specialist | Artificial Intelligence & Computer Vision ✨</h2>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="Just for fun :D">
+  <b>Building intelligent, secure, and scalable systems that power fintech, autonomous robotics, and embedded AI.</b><br>
+  <i>From payment OS architecture to RoboCup world champions – I turn research into real‑world impact.</i>
 </p>
 
-<h2 align="center">📊 My GitHub Statistics 🚀</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="Just for fun" width="400">
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical)
-<a href="https://github.com/Awrsha"><img alt="Awrsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&langs_count=10&layout=compact&theme=radical&hide_border=true" height="230px" /></a>
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awrsha&theme=blueberry)
+## 📇 Contact & Quick Facts
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=awrsha&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="awrsha's GitHub Streak" height="200">
-</div>
+| | |
+|---|---|
+| 📍 **Location** | Tehran, Iran · Ready for international collaboration |
+| 📞 **Phone** | +98 992 020 4175 |
+| ✉️ **Email** | [official.parvizi@hotmail.com](mailto:official.parvizi@hotmail.com) |
+| 🌐 **Website** | [awrsha.github.io](https://awrsha.github.io/) |
+| 🔗 **LinkedIn** | [linkedin.com/in/awrsha](https://www.linkedin.com/in/awrsha/) |
+| 🧠 **Top Skills** | Research & Development (R&D), Artificial Intelligence (AI), Deep Neural Networks (DNN) |
+| 🗣️ **Languages** | Persian (Native) · English (Limited Working) |
+
+---
+
+## 🧠 Professional Summary
+
+I am a Senior R&D Specialist in Artificial Intelligence and Intelligent Systems, focused on transforming advanced research into scalable, real‑world technologies across fintech, autonomous systems, and secure embedded platforms. My work sits at the intersection of AI innovation, operating systems, and mission‑critical infrastructure.
+
+At **TOSAN Techno**, I lead R&D initiatives for operating systems and software platforms powering next‑generation payment terminals and ATM ecosystems. My work spans AI integration (CV, LLMs/VLMs), Security Platform (SP) architecture, OS validation, certification, and end‑to‑end system security.
+
+Previously, I developed embedded AI and autonomous control systems at **SoftwareMotion** (China), collaborated on automotive safety ECUs at **Mammut Group**, and contributed to multiple RoboCup world championships with **MRL Humanoid**. I also engaged in advanced computational neuroscience research at **Neuromatch Academy**, building Bayesian models of decision‑making.
+
+I hold a Master’s degree in Artificial Intelligence and actively combine deep learning, real‑time systems, and security‑first engineering to deliver globally competitive products.
+
+---
+
+## 🎯 What I’m Currently Working On
+
+- 🤖 **Vision Models & LLMs/VLMs** for intelligent payment ecosystems (fraud detection, device analytics, automation).
+- 🏧 **Payment Terminal & ATM OS** – end‑to‑end R&D lifecycle, multi‑OS certification (Prolin, Monitor, PayDroid, Android).
+- 🔐 **Security Platform (SP)** – secure boot, cryptographic key management, system integrity.
+- 🌐 **International Vendor Collaboration** – PAX, NexGo, Hyosung, GRG Banking, and more for national‑scale ATM infrastructure.
+
+---
+
+## 🏢 Professional Experience
+
+### 🗓️ Timeline
+
+| 🕒 Period | 🧭 Role | 🏢 Organization | 📍 Location |
+|-----------|--------|----------------|-------------|
+| `Jan 2026 – Present` | **AI Engineer – Vision & LLM/VLM** | TOSANTECHNO | Qazvin, Iran |
+| `Jun 2025 – Present` | **Senior R&D Engineer – Payment Systems & Secure Banking** | TOSANTECHNO | Tehran, Iran |
+| `Jul 2025 – Apr 2026` | **Researcher – Computational Neuroscience** | Neuromatch Academy | Los Angeles, CA (Remote) |
+| `Jan 2025 – Jun 2025` | **R&D Engineer – ADAS & Autonomous Control** | SoftwareMotion Co., Ltd | Suzhou, China |
+| `Jan 2024 – Dec 2024` | **AI Engineer – Automotive AI & Safety Systems** | Mammut Group | Karaj, Iran |
+| `Jan 2022 – Dec 2022` | **AI Engineer – Humanoid Autonomous Systems** | MRL Humanoid (RoboCup) | Qazvin, Iran |
+
+### 👇 Click each role for full details (from latest resume)
+
+<details>
+<summary><b>🧠 AI Engineer – Vision & LLM/VLM</b> @ TOSANTECHNO <i>(Jan 2026 – Present)</i></summary>
+
+**Role Overview:** Leading applied AI R&D focusing on deploying **Vision Models (CV)**, **Large Language Models (LLMs)**, and **Vision‑Language Models (VLMs)** in real‑world fintech and payment infrastructure environments.
+
+**Key Contributions:**
+- Designed and developed AI‑driven architectures for intelligent payment ecosystems, integrating Computer Vision and multimodal models for real‑time decision‑making.
+- Built and optimized vision‑based systems for device intelligence: transaction monitoring, anomaly detection, operational analytics.
+- Integrated LLMs/VLMs into fintech workflows for automation, contextual analysis, and intelligent reporting systems.
+- Developed scalable AI pipelines for **edge and embedded deployment** in payment terminals and banking hardware.
+- Contributed to AI‑enhanced security systems, improving **fraud detection** and behavioral anomaly recognition.
+- Collaborated with cross‑functional R&D teams to transition AI models from research prototypes to production‑grade systems.
+
+</details>
+
+<details>
+<summary><b>🏧 Senior R&D Engineer – Payment Systems & Secure Banking Infrastructure</b> @ TOSANTECHNO <i>(Jun 2025 – Present)</i></summary>
+
+**Role Overview:** Senior technical lead responsible for research, development, validation, and certification of payment terminal and ATM operating systems, supporting **Iran’s largest ATM infrastructure ecosystem**.
+
+**Core Responsibilities:**
+- Led end‑to‑end R&D lifecycle for payment terminals, ATMs, POS systems, cashless platforms, and biometric/ID devices.
+- Specialized in **Security Platform (SP)** architecture: secure boot processes, cryptographic key management, system integrity enforcement.
+- Developed and maintained **Java‑based OS‑level validation frameworks** for functional, performance, and compliance testing.
+- Managed **multi‑OS certification** and release engineering across Prolin, Monitor, PayDroid, and Android‑based systems.
+- Designed and executed hardware‑software integration testing strategies for global vendor devices (PAX, NexGo, Kozen/XC Tech, Hyosung, GRG Banking, LKS).
+- Optimized system‑level performance for embedded payment environments under strict latency and reliability constraints.
+- Collaborated with international vendors and internal teams to ensure compliance, interoperability, and production readiness.
+- Contributed to standardization and modernization of national‑scale ATM infrastructure (Tosan holds the leading market position in Iran).
+
+</details>
+
+<details>
+<summary><b>🔬 Computational Neuroscience Researcher</b> @ Neuromatch Academy <i>(Jul 2025 – Apr 2026)</i></summary>
+
+**Research Overview:** Selected for an intensive, lab‑style program simulating graduate‑level computational neuroscience, focusing on neural and computational principles of decision‑making under uncertainty.
+
+**Focus:** Brain‑wide representations of prior information and uncertainty, inspired by IBL 2024 study. Worked with **Neuropixels electrophysiology** and **calcium imaging** from behaving mice.
+
+**Key Contributions:**
+- Developed **Bayesian and probabilistic models** to characterize latent cognitive variables governing decision dynamics.
+- Applied machine learning and representation learning to extract interpretable structure from high‑dimensional neural recordings.
+- Designed large‑scale data preprocessing pipelines (signal denoising, alignment, multimodal validation).
+- Analyzed neural population activity to decode encoding of prior beliefs, uncertainty, and behavioral adaptation.
+- Collaborated in a multidisciplinary team spanning neuroscience, AI, and statistical modeling.
+- Produced technical reports and presentations, communicating findings through peer review.
+
+**Impact:** Strengthened ability to bridge neuroscience and AI, developing principled models of cognition grounded in real neural data.
+
+</details>
+
+<details>
+<summary><b>🚛 R&D Engineer – ADAS & Autonomous Control</b> @ SoftwareMotion Co., Ltd <i>(Jan 2025 – Jun 2025)</i></summary>
+
+**Role Overview:** Contributed to AI‑driven control systems for autonomous vehicles and intelligent transportation, supporting smart mobility and unmanned logistics in a scaling international environment.
+
+**Technical Scope:**
+- Integrated embedded AI modules into real‑time vehicle control architectures.
+- Developed and validated ADAS and autonomous driving controllers under strict real‑time and safety constraints.
+- Collaborated in hardware‑software co‑design across perception, control, and embedded systems teams.
+- Worked with radar sensing, intelligent controllers, and in‑vehicle platforms.
+
+**Key Contributions:**
+- Designed and validated control logic and system‑level behaviors for intelligent driving systems.
+- Optimized performance and reduced latency in real‑time embedded environments.
+- Contributed to safety validation and robustness testing aligned with industry‑grade standards.
+- Supported international deployment and adaptation across diverse regulatory environments.
+
+**Industry Exposure:** Collaborated with major automotive and AI stakeholders: **JAC Motors, China National Heavy Duty Truck Group, AXera Technologies, Tongxing Technology, National Intelligent Connected Vehicle, Ligong Tongyu**.
+
+**Impact:** Strengthened expertise in embedded AI, autonomous control, and real‑time system design, with hands‑on experience scaling intelligent vehicle technologies.
+
+</details>
+
+<details>
+<summary><b>🚚 AI Engineer – Automotive AI & Safety Systems</b> @ Mammut Group <i>(Jan 2024 – Dec 2024)</i></summary>
+
+**Role Overview:** Designed and developed AI‑driven safety and driver‑assistance systems for heavy‑duty trucks and commercial vehicles at a leading Middle East manufacturer.
+
+**Technical Scope:**
+- Integrated machine learning models into embedded automotive platforms for intelligent driver‑assistance and safety.
+- Developed and validated **ECU firmware** for safety‑critical vehicle systems under real‑time constraints.
+- Participated in system‑level architecture design bridging control algorithms, embedded software, and vehicle electronics.
+
+**Key Contributions:**
+- Implemented and tested AI‑enhanced control logic within resource‑constrained embedded environments.
+- Optimized system performance for low‑latency and real‑time execution on automotive hardware.
+- Supported validation and reliability testing aligned with automotive safety and compliance standards.
+- Collaborated across mechanical, electrical, and software teams to ensure robust system integration and production readiness.
+
+**Industry Exposure:** Solutions supporting regional expansion in commercial transport and logistics markets across the Middle East.
+
+**Impact:** Strengthened expertise in embedded AI, ECU development, and automotive safety systems.
+
+</details>
+
+<details>
+<summary><b>🤖 AI Engineer – Humanoid Autonomous Systems</b> @ MRL Humanoid (RoboCup) <i>(Jan 2022 – Dec 2022)</i></summary>
+
+**Role Overview:** Core contributor to the MRL Humanoid Soccer Team, developing AI‑driven perception and decision‑making systems for fully autonomous humanoid robots in dynamic, adversarial environments.
+
+**Achievements:**
+- Part of a top‑tier robotics team achieving **multiple international RoboCup championships** in Australia, Canada, Thailand, Russia, and Japan.
+
+**Technical Scope:**
+- Designed and implemented real‑time computer vision pipelines for object detection, ball tracking, localization, and field recognition.
+- Developed multi‑agent AI systems for coordinated team behavior and distributed decision‑making.
+- Applied reinforcement learning and adaptive control strategies to enhance autonomous tactical responses.
+- Optimized algorithms for low‑latency execution on resource‑constrained robotic hardware.
+
+**Key Contributions:**
+- Engineered robust perception systems resilient to noise, occlusion, and rapid environmental changes.
+- Improved real‑time performance and decision accuracy through efficient model design.
+- Collaborated within a multidisciplinary robotics team integrating AI, control, and mechanical systems.
+
+**Impact:** Built strong expertise in real‑time AI, embodied intelligence, multi‑agent systems, and robotic perception.
+
+</details>
+
+---
+
+## 🛠️ Technical Expertise
+
+### 🤖 Artificial Intelligence & Machine Learning
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Expert-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-Advanced-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Proficient-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-Expert-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+
+### ⚙️ Embedded Systems & Real‑Time
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-Expert-03599C?style=for-the-badge&logo=c&logoColor=white)
+![Java (OS)](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔒 Fintech & Security
+![Payment OS](https://img.shields.io/badge/Payment_OS_(Prolin,_PayDroid,_Monitor)-Expert-00ADD8?style=for-the-badge&logo=android&logoColor=white)
+![EMV & Cryptography](https://img.shields.io/badge/EMV_&_Crypto_Key_Management-Advanced-333333?style=for-the-badge&logo=security&logoColor=white)
+![SP Architecture](https://img.shields.io/badge/Security_Platform_(SP)-Expert-CC342D?style=for-the-badge&logo=trustpilot&logoColor=white)
+
+### 💾 Data, DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD_(GitHub_Actions)-Advanced-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period | GPA / Notes |
+|--------|-------------|--------|-------------|
+| **M.Sc. Artificial Intelligence** | Qazvin Islamic Azad University | Graduated Oct 2025 | Focus on AI, CV, RL |
+| **B.Sc. Software Engineering** | Qazvin Islamic Azad University | Oct 2020 – Feb 2024 | Comprehensive software foundations |
+
+---
+
+## 📜 Key Certifications
+
+| Certification | Issuing Organization | Country |
+|---------------|----------------------|---------|
+| Elements of Artificial Intelligence | University of Helsinki | 🇪🇺 |
+| Computational Neuroscience | Neuromatch Academy | 🇺🇸 |
+| Unsupervised Learning, Recommenders, Reinforcement Learning | deeplearning.ai | 🇺🇸 |
+| Fundamentals of Reinforcement Learning | University of Alberta | 🇨🇦 |
+| Programming for Everybody (Python) | University of Michigan | 🇺🇸 |
+| Advanced Computer Vision with TensorFlow | deeplearning.ai | 🇺🇸 |
+| Robotics: Aerial Robotics | University of Pennsylvania | 🇺🇸 |
+| Google Analytics (Beginner, Advanced, 360) | Google Academy | 🇪🇺 |
+
+*All certificates are verified; clickable links can be provided upon request.*
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awrsha&theme=blueberry" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=awrsha&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&layout=compact&theme=radical&hide_border=true" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical" />
+</p>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=awrsha&theme=github-compact)](https://github.com/awrsha/github-readme-activity-graph)
 
-<a href="http://www.coffeete.ir/Awrsha">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-</a>
+---
 
-
-<h2 align="center">✨ About Me 💫</h2>
-
-<div align="left">
-  <p>
-    👋 Hello, my name is Amir Mohammad, but you can call me Amir. I am a software engineering graduate with a strong passion for artificial intelligence and computer vision, both in industrial applications and research contexts. My aspirations include contributing to innovative projects, collaborating on cutting-edge research with international scholars and esteemed professors, and publishing impactful articles in the field.
-
-I am committed to advancing my expertise by pursuing a PhD with a focus on AI and computer vision, aiming to secure a prestigious scholarship. My ultimate goal is to work with prominent companies, where I can apply my skills to solve real-world problems while making meaningful contributions to science and technology.
-  </p>
-</div>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<!-- sample badge demo https://simpleicons.org/ -->
-## Profile
-Property                 | Data  
--------------------------|------
-Programming Languages    | [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3AAwrsha&type=Repositories) [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)](https://github.com/search?l=Java&q=user%3AAwrsha&type=Repositories) [![C# Badge](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3AAwrsha&type=Repositories) [![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/search?l=Go&q=user%3AAwrsha&type=Repositories) [![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)](https://github.com/search?l=Rust&q=user%3AAwrsha&type=Repositories) [![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://github.com/search?l=Swift&q=user%3AAwrsha&type=Repositories) [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://github.com/search?l=Kotlin&q=user%3AAwrsha&type=Repositories) [![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://github.com/search?l=Dart&q=user%3AAwrsha&type=Repositories) [![Scala Badge](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)](https://github.com/search?l=Scala&q=user%3AAwrsha&type=Repositories) [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://github.com/search?l=Ruby&q=user%3AAwrsha&type=Repositories) [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/search?l=PHP&q=user%3AAwrsha&type=Repositories) [![Perl Badge](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white)](https://github.com/search?l=Perl&q=user%3AAwrsha&type=Repositories) [![Assembly Badge](https://img.shields.io/badge/-Assembly-525252?style=flat&logo=assemblyscript&logoColor=white)](https://github.com/search?l=Assembly&q=user%3AAwrsha&type=Repositories)
-Web Technologies         | [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://github.com/search?l=Vue&q=user%3AAwrsha&type=Repositories) [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://github.com/search?l=TypeScript&q=user%3AAwrsha&type=Repositories) [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Svelte Badge](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories)
-Hardware & Low-Level     | [![Verilog Badge](https://img.shields.io/badge/-Verilog-4479A1?style=flat&logo=SystemVerilog&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![VHDL Badge](https://img.shields.io/badge/-VHDL-000080?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![ESP32 Badge](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![FPGA Badge](https://img.shields.io/badge/-FPGA-0052CC?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Embedded C Badge](https://img.shields.io/badge/-Embedded%20C-03599C?style=flat&logo=c&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![STM32 Badge](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Scripting & Shell        | [![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/search?l=Shell&q=user%3AAwrsha&type=Repositories) [![PowerShell Badge](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://github.com/search?l=PowerShell&q=user%3AAwrsha&type=Repositories) [![Zsh Badge](https://img.shields.io/badge/-Zsh-F15A24?style=flat&logo=zsh&logoColor=white)](https://github.com/search?l=Shell&q=user%3AAwrsha&type=Repositories) [![Fish Badge](https://img.shields.io/badge/-Fish-73B548?style=flat&logo=fish&logoColor=white)](https://github.com/search?l=Shell&q=user%3AAwrsha&type=Repositories) [![Batch Badge](https://img.shields.io/badge/-Batch-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)](https://github.com/search?l=Batchfile&q=user%3AAwrsha&type=Repositories)
-Statistical & Scientific | [![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![MATLAB Badge](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Julia Badge](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)](https://github.com/search?l=Julia&q=user%3AAwrsha&type=Repositories) [![Mathematica Badge](https://img.shields.io/badge/-Mathematica-DD1100?style=flat&logo=wolfram-mathematica&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Octave Badge](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SAS Badge](https://img.shields.io/badge/-SAS-B34936?style=flat&logo=sas&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SPSS Badge](https://img.shields.io/badge/-SPSS-052FAD?style=flat&logo=ibm&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Query & Database Languages | [![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![MongoDB Query Badge](https://img.shields.io/badge/-MongoDB%20Query-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![CQL Badge](https://img.shields.io/badge/-CQL-1287B1?style=flat&logo=apache-cassandra&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Cypher Badge](https://img.shields.io/badge/-Cypher-008CC1?style=flat&logo=neo4j&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Markup & Config          | [![XML Badge](https://img.shields.io/badge/-XML-FF6600?style=flat&logo=xml&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![YAML Badge](https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![JSON Badge](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![TOML Badge](https://img.shields.io/badge/-TOML-9C4221?style=flat&logo=toml&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Markdown Badge](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![LaTeX Badge](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Frontend Frameworks      | [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://github.com/search?l=Vue&q=user%3AAwrsha&type=Repositories) [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://github.com/search?l=TypeScript&q=user%3AAwrsha&type=Repositories) [![Svelte Badge](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Alpine.js Badge](https://img.shields.io/badge/-Alpine.js-8BC34A?style=flat&logo=alpine.js&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Lit Badge](https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Preact Badge](https://img.shields.io/badge/-Preact-673AB8?style=flat&logo=preact&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Solid Badge](https://img.shields.io/badge/-Solid-2C4F7C?style=flat&logo=solid&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Backend Frameworks       | [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/search?l=Python&q=user%3AAwrsha&type=Repositories) [![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://github.com/search?l=Python&q=user%3AAwrsha&type=Repositories) [![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://github.com/search?l=Java&q=user%3AAwrsha&type=Repositories) [![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/search?l=C%23&q=user%3AAwrsha&type=Repositories) [![Ruby on Rails Badge](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)](https://github.com/search?l=Ruby&q=user%3AAwrsha&type=Repositories) [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://github.com/search?l=PHP&q=user%3AAwrsha&type=Repositories) [![Gin Badge](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/search?l=Go&q=user%3AAwrsha&type=Repositories) [![Fiber Badge](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/search?l=Go&q=user%3AAwrsha&type=Repositories) [![Actix Badge](https://img.shields.io/badge/-Actix-000000?style=flat&logo=rust&logoColor=white)](https://github.com/search?l=Rust&q=user%3AAwrsha&type=Repositories) [![Rocket Badge](https://img.shields.io/badge/-Rocket-000000?style=flat&logo=rust&logoColor=white)](https://github.com/search?l=Rust&q=user%3AAwrsha&type=Repositories)
-Mobile Development       | [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://github.com/search?l=Dart&q=user%3AAwrsha&type=Repositories) [![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/search?l=Java&q=user%3AAwrsha&type=Repositories) [![iOS Badge](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&logoColor=white)](https://github.com/search?l=Swift&q=user%3AAwrsha&type=Repositories) [![Xamarin Badge](https://img.shields.io/badge/-Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)](https://github.com/search?l=C%23&q=user%3AAwrsha&type=Repositories) [![Ionic Badge](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Cordova Badge](https://img.shields.io/badge/-Cordova-35434F?style=flat&logo=apache-cordova&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-CSS Frameworks           | [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Bulma Badge](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Material UI Badge](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Ant Design Badge](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Chakra UI Badge](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Foundation Badge](https://img.shields.io/badge/-Foundation-29AAE1?style=flat&logo=foundation&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Semantic UI Badge](https://img.shields.io/badge/-Semantic%20UI-35BDB2?style=flat&logo=semantic-ui-react&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-JavaScript Libraries     | [![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Lodash Badge](https://img.shields.io/badge/-Lodash-3492FF?style=flat&logo=lodash&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Moment.js Badge](https://img.shields.io/badge/-Moment.js-47A248?style=flat&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Axios Badge](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![MobX Badge](https://img.shields.io/badge/-MobX-FF9955?style=flat&logo=mobx&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![RxJS Badge](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Three.js Badge](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![D3.js Badge](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Chart.js Badge](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories)
-Desktop Development      | [![PyQt Badge](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=Qt&logoColor=white)](https://github.com/Awrsha/AxisTradeCult) [![Tkinter Badge](https://img.shields.io/badge/-Tkinter-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?l=Python&q=user%3AAwrsha&type=Repositories) [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Tauri Badge](https://img.shields.io/badge/-Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Qt Badge](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![GTK Badge](https://img.shields.io/badge/-GTK-7FE719?style=flat&logo=gtk&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![WPF Badge](https://img.shields.io/badge/-WPF-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/search?l=C%23&q=user%3AAwrsha&type=Repositories) [![WinForms Badge](https://img.shields.io/badge/-WinForms-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/search?l=C%23&q=user%3AAwrsha&type=Repositories) [![JavaFX Badge](https://img.shields.io/badge/-JavaFX-ED8B00?style=flat&logo=java&logoColor=white)](https://github.com/search?l=Java&q=user%3AAwrsha&type=Repositories) [![Swing Badge](https://img.shields.io/badge/-Swing-ED8B00?style=flat&logo=java&logoColor=white)](https://github.com/search?l=Java&q=user%3AAwrsha&type=Repositories)
-Game Development         | [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Unreal Engine Badge](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Godot Badge](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SFML Badge](https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=SFML&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![OpenGL Badge](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Vulkan Badge](https://img.shields.io/badge/-Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![DirectX Badge](https://img.shields.io/badge/-DirectX-000000?style=flat&logo=microsoft&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Pygame Badge](https://img.shields.io/badge/-Pygame-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?l=Python&q=user%3AAwrsha&type=Repositories)
-Machine Learning & AI    | [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Keras Badge](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Scikit-Learn Badge](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![XGBoost Badge](https://img.shields.io/badge/-XGBoost-337AB7?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![LightGBM Badge](https://img.shields.io/badge/-LightGBM-02569B?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![CatBoost Badge](https://img.shields.io/badge/-CatBoost-FFCC00?style=flat&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Theano Badge](https://img.shields.io/badge/-Theano-DD7631?style=flat&logo=Theano&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![JAX Badge](https://img.shields.io/badge/-JAX-0073E6?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![MLflow Badge](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Weights & Biases Badge](https://img.shields.io/badge/-Weights%20&%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![TensorBoard Badge](https://img.shields.io/badge/-TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![AutoML Badge](https://img.shields.io/badge/-AutoML-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Computer Vision & Image Processing | [![OpenCV Badge](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Pillow Badge](https://img.shields.io/badge/-Pillow-547393?style=flat&logo=Pillow&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![ImageIO Badge](https://img.shields.io/badge/-ImageIO-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Skimage Badge](https://img.shields.io/badge/-Scikit%20Image-F7931E?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![YOLO Badge](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![MediaPipe Badge](https://img.shields.io/badge/-MediaPipe-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Detectron2 Badge](https://img.shields.io/badge/-Detectron2-1877F2?style=flat&logo=facebook&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Albumentations Badge](https://img.shields.io/badge/-Albumentations-FF6B6B?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![DLIB Badge](https://img.shields.io/badge/-DLIB-008000?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SimpleITK Badge](https://img.shields.io/badge/-SimpleITK-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Data Science & Analytics | [![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SciPy Badge](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=Matplotlib&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Seaborn Badge](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Plotly Badge](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Bokeh Badge](https://img.shields.io/badge/-Bokeh-E84D39?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Streamlit Badge](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Dash Badge](https://img.shields.io/badge/-Dash-00485C?style=flat&logo=plotly&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Apache Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Dask Badge](https://img.shields.io/badge/-Dask-FDA061?style=flat&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Natural Language Processing | [![NLTK Badge](https://img.shields.io/badge/-NLTK-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![spaCy Badge](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Transformers Badge](https://img.shields.io/badge/-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Gensim Badge](https://img.shields.io/badge/-Gensim-FF6B35?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![TextBlob Badge](https://img.shields.io/badge/-TextBlob-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![OpenAI Badge](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![LangChain Badge](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Claude Badge](https://img.shields.io/badge/-Claude-CC7722?style=flat&logo=anthropic&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Databases                | [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Cassandra Badge](https://img.shields.io/badge/-Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Neo4j Badge](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![InfluxDB Badge](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![DynamoDB Badge](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![CouchDB Badge](https://img.shields.io/badge/-CouchDB-E42528?style=flat&logo=apache-couchdb&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![PlanetScale Badge](https://img.shields.io/badge/-PlanetScale-000000?style=flat&logo=planetscale&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Message Queues & Streaming | [![Apache Kafka Badge](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![RabbitMQ Badge](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Apache Pulsar Badge](https://img.shields.io/badge/-Apache%20Pulsar-188FFF?style=flat&logo=apache-pulsar&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![NATS Badge](https://img.shields.io/badge/-NATS-199bfc?style=flat&logo=nats&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![ActiveMQ Badge](https://img.shields.io/badge/-ActiveMQ-FF6A00?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![ZeroMQ Badge](https://img.shields.io/badge/-ZeroMQ-DF0000?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Cloud Platforms          | [![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Azure Badge](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![DigitalOcean Badge](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Railway Badge](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Render Badge](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Cloudflare Badge](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Containerization & Orchestration | [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Podman Badge](https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Helm Badge](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![OpenShift Badge](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Istio Badge](https://img.shields.io/badge/-Istio-466BB0?style=flat&logo=istio&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-CI/CD & DevOps           | [![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)](https://github.com/Awrsha/Awrsha) [![GitLab CI Badge](https://img.shields.io/badge/-GitLab%20CI-FCA326?style=flat&logo=gitlab&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Travis CI Badge](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=travis-ci&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![CircleCI Badge](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Azure DevOps Badge](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Terraform Badge](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Ansible Badge](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Vagrant Badge](https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Testing Frameworks       | [![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![PyTest Badge](https://img.shields.io/badge/-PyTest-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?l=Python&q=user%3AAwrsha&type=Repositories) [![JUnit Badge](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)](https://github.com/search?l=Java&q=user%3AAwrsha&type=Repositories) [![Mocha Badge](https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories) [![Cypress Badge](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Playwright Badge](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![TestNG Badge](https://img.shields.io/badge/-TestNG-FF7300?style=flat&logoColor=white)](https://github.com/search?l=Java&q=user%3AAwrsha&type=Repositories) [![Jasmine Badge](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3AAwrsha&type=Repositories)
-Monitoring & Observability | [![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![ElasticSearch Badge](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Logstash Badge](https://img.shields.io/badge/-Logstash-005571?style=flat&logo=logstash&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Kibana Badge](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=kibana&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Jaeger Badge](https://img.shields.io/badge/-Jaeger-66CFE6?style=flat&logo=jaeger&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Zipkin Badge](https://img.shields.io/badge/-Zipkin-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![New Relic Badge](https://img.shields.io/badge/-New%20Relic-008C99?style=flat&logo=new-relic&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Datadog Badge](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-API & Integration Tools  | [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Insomnia Badge](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Apollo GraphQL Badge](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![REST Badge](https://img.shields.io/badge/-REST-02569B?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SOAP Badge](https://img.shields.io/badge/-SOAP-003B6F?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![gRPC Badge](https://img.shields.io/badge/-gRPC-244c5a?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![WebSocket Badge](https://img.shields.io/badge/-WebSocket-010101?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Version Control & Collaboration | [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Awrsha) [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA326?style=flat&logo=gitlab&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SVN Badge](https://img.shields.io/badge/-SVN-809CC9?style=flat&logo=subversion&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Mercurial Badge](https://img.shields.io/badge/-Mercurial-999999?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Package Managers         | [![npm Badge](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![pnpm Badge](https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![pip Badge](https://img.shields.io/badge/-pip-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Conda Badge](https://img.shields.io/badge/-Conda-44A833?style=flat&logo=anaconda&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Poetry Badge](https://img.shields.io/badge/-Poetry-60A5FA?style=flat&logo=poetry&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Cargo Badge](https://img.shields.io/badge/-Cargo-000000?style=flat&logo=rust&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Maven Badge](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Gradle Badge](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![NuGet Badge](https://img.shields.io/badge/-NuGet-004880?style=flat&logo=nuget&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Homebrew Badge](https://img.shields.io/badge/-Homebrew-FBB040?style=flat&logo=homebrew&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Build Tools & Bundlers   | [![Webpack Badge](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Parcel Badge](https://img.shields.io/badge/-Parcel-BC8F66?style=flat&logo=parcel&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Rollup Badge](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![esbuild Badge](https://img.shields.io/badge/-esbuild-FFCF00?style=flat&logo=esbuild&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Turbo Badge](https://img.shields.io/badge/-Turbo-EF4444?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SWC Badge](https://img.shields.io/badge/-SWC-FF3C00?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Babel Badge](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-IDEs & Editors           | [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![WebStorm Badge](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Vim Badge](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Neovim Badge](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Emacs Badge](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnu-emacs&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Sublime Text Badge](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Atom Badge](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Xcode Badge](https://img.shields.io/badge/-Xcode-007ACC?style=flat&logo=xcode&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Operating Systems        | [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![CentOS Badge](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Red Hat Badge](https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat&logo=red-hat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Debian Badge](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Fedora Badge](https://img.shields.io/badge/-Fedora-294172?style=flat&logo=fedora&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Arch Linux Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![macOS Badge](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![FreeBSD Badge](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Domain Knowledge         | [![Artificial Intelligence Badge](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Deep Learning Badge](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Neural Networks Badge](https://img.shields.io/badge/-Neural%20Networks-FF6F00?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Computer Vision Badge](https://img.shields.io/badge/-Computer%20Vision-007ACC?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Natural Language Processing Badge](https://img.shields.io/badge/-NLP-4B8BBE?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Robotics Badge](https://img.shields.io/badge/-Robotics-FF6B35?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![IoT Badge](https://img.shields.io/badge/-IoT-1572B6?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Blockchain Badge](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-000000?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![DevOps Badge](https://img.shields.io/badge/-DevOps-326CE5?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Cloud Computing Badge](https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Data Science Badge](https://img.shields.io/badge/-Data%20Science-FF6F00?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Big Data Badge](https://img.shields.io/badge/-Big%20Data-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Quantum Computing Badge](https://img.shields.io/badge/-Quantum%20Computing-512BD4?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Edge Computing Badge](https://img.shields.io/badge/-Edge%20Computing-FF6B00?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Networking & Security    | [![TCP/IP Badge](https://img.shields.io/badge/-TCP%2FIP-000080?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![HTTP/HTTPS Badge](https://img.shields.io/badge/-HTTP%2FHTTPS-005571?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![DNS Badge](https://img.shields.io/badge/-DNS-1E88E5?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![SSL/TLS Badge](https://img.shields.io/badge/-SSL%2FTLS-326CE5?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![VPN Badge](https://img.shields.io/badge/-VPN-FF4500?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Firewall Badge](https://img.shields.io/badge/-Firewall-DC143C?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![OAuth Badge](https://img.shields.io/badge/-OAuth-000000?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![JWT Badge](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![OpenID Badge](https://img.shields.io/badge/-OpenID-F78C40?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![LDAP Badge](https://img.shields.io/badge/-LDAP-0066CC?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![PKI Badge](https://img.shields.io/badge/-PKI-800080?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Blockchain & Web3        | [![Ethereum Badge](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Bitcoin Badge](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Truffle Badge](https://img.shields.io/badge/-Truffle-5E464D?style=flat&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Hardhat Badge](https://img.shields.io/badge/-Hardhat-FFF100?style=flat&logoColor=black)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![IPFS Badge](https://img.shields.io/badge/-IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![MetaMask Badge](https://img.shields.io/badge/-MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
-Social Media & Reach Me  | [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/awrsha) [![X Badge](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/awrsha) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:official.parvizi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/awrsha/) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+989011325118) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arsha._.parvizi) [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/AngusAlan) [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.gg/awrsha) [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@awrsha) [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white)](https://medium.com/@arshaparvizi) [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/awrsha) [![Stack Overflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/awrsha) [![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/u/awrsha) [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://twitch.tv/awrsha) [![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@awrsha) [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Awrsha) [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA326?style=flat&logo=GitLab&logoColor=white)](https://gitlab.com/awrsha) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/amirmohammadparvizi) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://hackerrank.com/awrsha) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/awrsha) [![Codepen Badge](https://img.shields.io/badge/-Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/awrsha) [![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/awrsha) [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/awrsha) [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://figma.com/@awrsha) [![Pinterest Badge](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/awrsha) [![Snapchat Badge](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=black)](https://snapchat.com/add/awrsha) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/awrsha)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-# 🎓 Professional Certifications & Courses
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-- [Computational Neuroscience](https://portal.neuromatchacademy.org/certificate/ec8f2cd1-8df4-4a83-83c7-c644f000b509) `NeuroMatch Academy` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-- [Advanced Computer Vision with Tensorflow](https://coursera.org/share/ab1b8d53d46799f97104663d6c5d609e) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/bc28485bdebe5717b142f40ef2f2a66c) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-- [AI For Everyone](https://coursera.org/share/b22ea61a6b4223866825ac2c0236b5d4) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-- [Elements of Artificial Intelligence](https://certificates.mooc.fi/validate/uwzjs879c1) `University of Helsinki` ![United Nations](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/unitednations.png "United Nations")
-- [Machine Learning Basic](https://coursera.org/verify/M9XBFYE7VJSW) `Sungkyunkwan University` ![Korea](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png "Korea")
-
-### 🖼️ Computer Vision & Image Processing
-
-- [Introduction to Computer Vision and Image Processing](https://coursera.org/share/bcfccc8c4454aef6b03aa98e4f430a8b) `IBM` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-- [Deep Learning with PyTorch: Image Segmentation](https://coursera.org/share/ab7f441a10218f9dda74664bff59d0f6) `Coursera Project Network` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-
-### 🎮 Reinforcement Learning & Robotics
-
-- [Fundamentals of Reinforcement Learning](https://coursera.org/share/3f4964a84e23f615f5d56c1797c97291) `University of Alberta` ![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png "Canada")
-- [Robotics: Aerial Robotics](https://coursera.org/share/20c0c0e2fbee0edb51b84b459be558a4) `University of Pennsylvania` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-- [Unsupervised Machine Learning: Recommenders, Reinforcement Learning](https://coursera.org/share/9f22a0c8d78396ef22df324019bf91e5) `deeplearning.ai` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-
-### 🧮 Data Science & Analytics
-
-- [Foundations of Data Science: K-Means Clustering in Python](https://coursera.org/share/58c52fad77e85c31a7fb0a179ef43d7f) `University of London` ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
-- [Beginning Google Analytics](https://analytics.google.com/analytics/academy/certificate/7v9YWTp9TRibZ68pZkreAA) `Google Academy` ![European Union](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/europeanunion.png "European Union")
-- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/JO4rNbB1TsyZjDrKVm795Q) `Google Academy` ![European Union](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/europeanunion.png "European Union")
-- [Google Analytics 360](https://analytics.google.com/analytics/academy/certificate/tuL7ZhgqQ0afLype42VBRA) `Google Academy` ![European Union](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/europeanunion.png "European Union")
-
-### 💻 Programming & Development
-
-- [Learn to Program: The Fundamentals](https://coursera.org/share/e3520706710cfaf0041c56cf533d9ed3) `University of Toronto` ![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png "Canada")
-- [Getting Started with Python](https://drive.google.com/drive/folders/1cl9HJiZcHrfrzeH-H5YNxuBWeh_uKC-V) `University of Michigan` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-- [Learn jQuery](https://www.udemy.com/certificate/UC-22ac08d0-8085-4f4e-bb1a-f7a77c8c1f0a/) `Udemy` ![India](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png "India")
-- [Python GUI](https://www.udemy.com/certificate/UC-61474b52-b274-4054-81ac-2ad4271acbfc/) `Udemy` ![European Union](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/europeanunion.png "European Union")
-
-### 🤝 Ethics & Professional Development
-
-- [AI, Empathy & Ethics](https://coursera.org/share/6a05ef01236612e03618ac75af9b414b) `University of California, Santa Cruz` ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-# 💼 Professional Journey
-
-## 🔬 R&D Specialist | Software Engineer
-
-**🏢 TOSANTECHNO** | *Tehran, Tehran Province, Iran*  
-`Jun 2025 - Present`
-
-> Cutting-edge research and development in software engineering
-- 🚀 Leading innovative software solutions
-- 🔬 Conducting advanced R&D projects
-- 💻 Developing next-generation applications
-
-## 🧠 AI Enthusiast & Researcher
-
-**🏢 Neuromatch Academy** | *Los Angeles, California, United States (Remote)*  
-`Jul 2025 - Present`
-
-> Advanced AI research and computational neuroscience
-- 🔬 Participated in intensive AI research program
-- 🧠 Studied computational neuroscience principles
-- 📊 Collaborated on data-driven research projects
-- 🌐 Engaged with global research community
-
-## 🔧 R&D Specialist | Software Engineer
-
-**🏢 Mammut Group** | *Karaj, Alborz Province, Iran (Hybrid)*  
-`Mar 2024 - Dec 2024 · 10 mos` | *Contract*
-
-> Research and development in enterprise software solutions
-- 🏗️ Architected scalable software systems
-- 🔍 Led research initiatives for innovative solutions
-- 👥 Collaborated with cross-functional teams
-- 📈 Delivered high-impact R&D projects
-
-## 👁️ AI Enthusiast | Computer Vision Specialist
-
-**🏢 SYNTECH Technology and Innovation Center** | *Qazvin, Qazvin Province, Iran (Hybrid)*  
-`Jan 2021 - Dec 2024 · 4 yrs` | *Part-time*
-
-> Advanced technological solutions at the convergence of AI and robotics
-- 🤖 Developed cutting-edge robotics solutions
-- 🧠 Implemented machine learning algorithms
-- 💻 Created innovative software applications
-- 🔬 Researched emerging AI technologies
-
-## 🤖 AI Enthusiast | Computer Vision Specialist
-
-**🏢 MRL Humanoid** | *Qazvin, Qazvin Province, Iran (Hybrid)*  
-`Jan 2022 - Dec 2023 · 2 yrs` | *Full-time*
-
-> Specialized in humanoid robotics and advanced AI systems
-- 🦿 Developed vision systems for humanoid robots
-- ⚽ Implemented algorithms for robotic football players
-- 🔬 Conducted research in human-like robot behaviors
-- 🎯 Optimized real-time computer vision algorithms
-
-## 📡 Django Developer
-
-**🏢 Telecommunication Company of Iran (TCI)** | *Qazvin, Qazvin Province, Iran*  
-`Jun 2023 - Jan 2024 · 8 mos`
-
-> Internship under Dr. Zeinali, University CEO
-- 📱 Telecommunications systems research
-- 🔍 Network optimization studies
-- 💡 Innovation in communication technologies
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-# Teaching Assistant Experience 👩‍🏫
-
-During my academic journey, I've had the privilege to serve as a Teaching Assistant (TA) for the following courses:
-
-- **Internet Engineering**  
-  *Professor: Dr. Azadeh Pourkabirian*
-
-- **Multimedia Systems**  
-  *Professor: Dr. Amir Masoud Eftekhari Moghaddam*
-
-- **Research Method, Research, and Presentation**  
-  *Professor: Dr. Amir Masoud Eftekhari Moghadam*
-
-- **Software Engineering Laboratory**  
-  *Professor: Dr. Ali Ghaffari Boranqar*
-
-Excited to contribute to the academic community and support students in their learning journey.
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## Education 🎓
-
-### Bachelor's Degree in Software Engineering  
-- **University:** Qazvin Islamic Azad University *(QIAU)*
-- **GPA:** 3.2 
-- **Duration:** Oct 2020 to Dec 2023  
-- **Description:** Completed a comprehensive curriculum focusing on various aspects of software engineering, including programming, database management, software development methodologies, and project management. 
-
-### Mathematics Diploma  
-- **High School:** Aqmashe State Model High School  
-- **GPA:** 3.4  
-- **Duration:** Oct 2016 to Jul 2020  
-- **Description:** Acquired a solid foundation in mathematics and related disciplines, laying the groundwork for further academic pursuits in the field of technology and engineering.
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-Amir M. Parvizi ♥️
-
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+## 🌐 Connect with Me
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <a href="https://www.linkedin.com/in/awrsha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:official.parvizi@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/AngusAlan">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Awrsha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://awrsha.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://www.coffeete.ir/Awrsha">
+    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" />
+</p>
+
+<h4 align="center">
+  <i>“Engineering the future, one intelligent system at a time.”</i>
+</h4>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats Bottom" />
 </p>
