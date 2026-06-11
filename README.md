@@ -1,338 +1,305 @@
-<div align="center">
+<h1 align="center">
+  <a href="https://github.com/Awrsha">
+    <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="25%" alt="Hello">
+  </a>
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21&height=280&section=header&text=Amir%20M.%20Parvizi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Vision%20%26%20LLM%2FVLM%20Architect&descAlignY=55&descSize=24" width="100%"/>
+<h2 align="center">✨ Amir M. Parvizi – Senior R&D Specialist | Artificial Intelligence & Computer Vision ✨</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=From+RoboCup+World+Champion+to+Fintech+AI+Innovator;Building+secure%2C+intelligent%2C+scalable+systems+for+Payments+%26+Robotics;Turning+cutting-edge+research+into+real-world+impact" />
+<p align="center">
+  <b>Building intelligent, secure, and scalable systems that power fintech, autonomous robotics, and embedded AI.</b><br>
+  <i>From payment OS architecture to RoboCup world champions – I turn research into real‑world impact.</i>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="Just for fun" width="400">
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Awrsha&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Awrsha?label=Followers&style=for-the-badge&color=00D9FF" />
-<img src="https://img.shields.io/badge/🚀_Open_for_Collaboration-Active-success?style=for-the-badge&logo=handshake&logoColor=white" />
-<img src="https://img.shields.io/badge/🏆_RoboCup-Multiple_World_Champion-FFD700?style=for-the-badge&logo=robot&logoColor=black" />
+---
 
-</div>
+## 📇 Contact & Quick Facts
 
-<br/>
+| | |
+|---|---|
+| 📍 **Location** | Tehran, Iran · Ready for international collaboration |
+| 📞 **Phone** | +98 992 020 4175 |
+| ✉️ **Email** | [official.parvizi@hotmail.com](mailto:official.parvizi@hotmail.com) |
+| 🌐 **Website** | [awrsha.github.io](https://awrsha.github.io/) |
+| 🔗 **LinkedIn** | [linkedin.com/in/awrsha](https://www.linkedin.com/in/awrsha/) |
+| 🧠 **Top Skills** | Research & Development (R&D), Artificial Intelligence (AI), Deep Neural Networks (DNN) |
+| 🗣️ **Languages** | Persian (Native) · English (Limited Working) |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="6px"/>
+---
 
-<!-- Modern Contact & Quick Stats Grid - No Summary -->
-<div align="center">
-  <table style="border: none; width: 100%; background: transparent;">
-    <tr>
-      <td align="center" width="33%" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/📍_Tehran,_Iran-12151D?style=flat-square&labelColor=00D9FF&logo=googlemaps&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/📞_+98_992_020_4175-12151D?style=flat-square&labelColor=00D9FF&logo=whatsapp&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/✉️_official.parvizi@hotmail.com-12151D?style=flat-square&labelColor=00D9FF&logo=microsoftoutlook&logoColor=white"/>
-      </td>
-      <td align="center" width="34%" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/🌐_awrsha.github.io-12151D?style=flat-square&labelColor=00D9FF&logo=github&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/🔗_linkedin.com/in/awrsha-12151D?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/🗣️_Persian_(Native)_·_English-12151D?style=flat-square&labelColor=00D9FF&logo=duolingo&logoColor=white"/>
-      </td>
-      <td align="center" width="33%" style="border: none; padding: 10px;">
-        <div style="background: linear-gradient(135deg, #0a192f, #00D9FF22); border-radius: 16px; padding: 8px 12px;">
-          <b>⚡ Core Stats</b><br/>
-          <code>M.Sc. AI · 4+ YoE · 6+ Countries</code><br/>
-          <code>10+ Global Vendor Integrations</code><br/>
-          <code>🏅 RoboCup World Champion (x3)</code>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🧠 Professional Summary
 
-<br/>
+I am a Senior R&D Specialist in Artificial Intelligence and Intelligent Systems, focused on transforming advanced research into scalable, real‑world technologies across fintech, autonomous systems, and secure embedded platforms. My work sits at the intersection of AI innovation, operating systems, and mission‑critical infrastructure.
 
-<div align="center">
+At **TOSAN Techno**, I lead R&D initiatives for operating systems and software platforms powering next‑generation payment terminals and ATM ecosystems. My work spans AI integration (CV, LLMs/VLMs), Security Platform (SP) architecture, OS validation, certification, and end‑to‑end system security.
 
-## 🎯 Current Innovation Focus
+Previously, I developed embedded AI and autonomous control systems at **SoftwareMotion** (China), collaborated on automotive safety ECUs at **Mammut Group**, and contributed to multiple RoboCup world championships with **MRL Humanoid**. I also engaged in advanced computational neuroscience research at **Neuromatch Academy**, building Bayesian models of decision‑making.
 
-<table style="width: 100%; background: transparent;">
-  <tr>
-    <td align="center" width="25%">
-      <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/><br/>
-      <b>Vision & VLMs</b><br/>
-      <sub>Fraud detection · Edge AI · Multimodal analytics</sub>
-    </td>
-    <td align="center" width="25%">
-      <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/><br/>
-      <b>Payment OS & Security</b><br/>
-      <sub>Prolin · PayDroid · Secure Boot · Key Management</sub>
-    </td>
-    <td align="center" width="25%">
-      <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embedded/embedded-original.svg"/><br/>
-      <b>Embedded Intelligence</b><br/>
-      <sub>Real-time AI · ADAS · Autonomous Control</sub>
-    </td>
-    <td align="center" width="25%">
-      <img width="64" src="https://cdn-icons-png.flaticon.com/512/3574/3574869.png"/><br/>
-      <b>ATM Ecosystem</b><br/>
-      <sub>National-scale infrastructure · Global vendors</sub>
-    </td>
-  </tr>
-</table>
+I hold a Master’s degree in Artificial Intelligence and actively combine deep learning, real‑time systems, and security‑first engineering to deliver globally competitive products.
 
-</div>
+---
 
-<br/>
+## 🎯 What I’m Currently Working On
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="6px"/>
+- 🤖 **Vision Models & LLMs/VLMs** for intelligent payment ecosystems (fraud detection, device analytics, automation).
+- 🏧 **Payment Terminal & ATM OS** – end‑to‑end R&D lifecycle, multi‑OS certification (Prolin, Monitor, PayDroid, Android).
+- 🔐 **Security Platform (SP)** – secure boot, cryptographic key management, system integrity.
+- 🌐 **International Vendor Collaboration** – PAX, NexGo, Hyosung, GRG Banking, and more for national‑scale ATM infrastructure.
 
-<div align="center">
+---
 
-## 📈 Milestone Timeline
+## 🏢 Professional Experience
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00D9FF', 'primaryTextColor': '#fff', 'lineColor': '#00D9FF', 'tertiaryColor': '#12151D'}}}%%
-timeline
-    title Career Journey — Impact & Growth
-    2022 : RoboCup World Champion 🏆
-          MRL Humanoid · AI Perception
-    2024 : Mammut Group
-          Automotive AI & ECUs
-    2025 : SoftwareMotion (China)
-          ADAS & Autonomous Control
-    2025–2026 : Neuromatch Academy
-                Computational Neuroscience
-    2025–Present : TOSANTECHNO
-                  Senior R&D · Payment Systems
-    2026–Present : TOSANTECHNO
-                  AI Engineer · Vision & LLM/VLM
-```
+### 🗓️ Timeline
 
-</div>
+| 🕒 Period | 🧭 Role | 🏢 Organization | 📍 Location |
+|-----------|--------|----------------|-------------|
+| `Jan 2026 – Present` | **AI Engineer – Vision & LLM/VLM** | TOSANTECHNO | Qazvin, Iran |
+| `Jun 2025 – Present` | **Senior R&D Engineer – Payment Systems & Secure Banking** | TOSANTECHNO | Tehran, Iran |
+| `Jul 2025 – Apr 2026` | **Researcher – Computational Neuroscience** | Neuromatch Academy | Los Angeles, CA (Remote) |
+| `Jan 2025 – Jun 2025` | **R&D Engineer – ADAS & Autonomous Control** | SoftwareMotion Co., Ltd | Suzhou, China |
+| `Jan 2024 – Dec 2024` | **AI Engineer – Automotive AI & Safety Systems** | Mammut Group | Karaj, Iran |
+| `Jan 2022 – Dec 2022` | **AI Engineer – Humanoid Autonomous Systems** | MRL Humanoid (RoboCup) | Qazvin, Iran |
 
-<br/>
+### 👇 Click each role for full details (from latest resume)
 
-<details open>
-<summary>🏦 <b>AI Engineer – Vision & LLM/VLM</b> @ TOSANTECHNO · <code>2026–Present</code>   <img src="https://img.shields.io/badge/Qazvin%2FIran-00D9FF?style=flat-square"/></summary>
-<br/>
+<details>
+<summary><b>🧠 AI Engineer – Vision & LLM/VLM</b> @ TOSANTECHNO <i>(Jan 2026 – Present)</i></summary>
 
-> **Intelligent Payment Ecosystems:** Architecting and deploying production-grade Computer Vision, LLM, and VLM models for fintech. Integrating multimodal intelligence into transaction monitoring, fraud detection, and operational analytics on edge devices.
+**Role Overview:** Leading applied AI R&D focusing on deploying **Vision Models (CV)**, **Large Language Models (LLMs)**, and **Vision‑Language Models (VLMs)** in real‑world fintech and payment infrastructure environments.
 
-| 🔧 Key Contributions |
-|---|
-| 🟦 Designed scalable AI pipelines for real-time decision-making on payment terminals and ATMs |
-| 🟦 Developed vision-based anomaly detection and contextual reporting using LLM/VLM fusion |
-| 🟦 Optimized models for embedded deployment (ARM, Android-based OS) with <100ms latency |
-| 🟦 Collaborated with security teams to enhance fraud detection via behavioral AI |
+**Key Contributions:**
+- Designed and developed AI‑driven architectures for intelligent payment ecosystems, integrating Computer Vision and multimodal models for real‑time decision‑making.
+- Built and optimized vision‑based systems for device intelligence: transaction monitoring, anomaly detection, operational analytics.
+- Integrated LLMs/VLMs into fintech workflows for automation, contextual analysis, and intelligent reporting systems.
+- Developed scalable AI pipelines for **edge and embedded deployment** in payment terminals and banking hardware.
+- Contributed to AI‑enhanced security systems, improving **fraud detection** and behavioral anomaly recognition.
+- Collaborated with cross‑functional R&D teams to transition AI models from research prototypes to production‑grade systems.
 
 </details>
 
 <details>
-<summary>🏧 <b>Senior R&D Engineer – Payment Systems & Secure Banking</b> @ TOSANTECHNO · <code>2025–Present</code>   <img src="https://img.shields.io/badge/Tehran%2FIran-00D9FF?style=flat-square"/></summary>
-<br/>
+<summary><b>🏧 Senior R&D Engineer – Payment Systems & Secure Banking Infrastructure</b> @ TOSANTECHNO <i>(Jun 2025 – Present)</i></summary>
 
-> **National ATM Infrastructure Lead:** End-to-end R&D ownership for payment terminals, ATMs, and POS systems. Responsible for OS certification (Prolin, Monitor, PayDroid, Android), Security Platform (SP) architecture, and global vendor integration (PAX, NexGo, Hyosung, GRG Banking).
+**Role Overview:** Senior technical lead responsible for research, development, validation, and certification of payment terminal and ATM operating systems, supporting **Iran’s largest ATM infrastructure ecosystem**.
 
-| 🔧 Core Responsibilities |
-|---|
-| 🟩 Led validation frameworks (Java-based) for functional, performance, and security compliance |
-| 🟩 Implemented secure boot, cryptographic key management, and system integrity for SP |
-| 🟩 Managed hardware-software integration across 10+ international vendors |
-| 🟩 Drove standardization and modernization of Iran's largest ATM fleet |
-
-</details>
-
-<details>
-<summary>🧠 <b>Computational Neuroscience Researcher</b> @ Neuromatch Academy · <code>2025–2026</code>   <img src="https://img.shields.io/badge/Los_Angeles%2FRemote-00D9FF?style=flat-square"/></summary>
-<br/>
-
-> **Decision-Making Under Uncertainty:** Selected for intensive lab-style program. Built Bayesian and probabilistic models of prior beliefs and uncertainty using Neuropixels electrophysiology and calcium imaging from behaving mice.
-
-| 🔧 Research Contributions |
-|---|
-| 🟪 Developed representation learning pipelines to decode latent cognitive variables |
-| 🟪 Engineered large-scale preprocessing (denoising, alignment, multimodal validation) |
-| 🟪 Published technical reports linking neural population activity to behavioral adaptation |
+**Core Responsibilities:**
+- Led end‑to‑end R&D lifecycle for payment terminals, ATMs, POS systems, cashless platforms, and biometric/ID devices.
+- Specialized in **Security Platform (SP)** architecture: secure boot processes, cryptographic key management, system integrity enforcement.
+- Developed and maintained **Java‑based OS‑level validation frameworks** for functional, performance, and compliance testing.
+- Managed **multi‑OS certification** and release engineering across Prolin, Monitor, PayDroid, and Android‑based systems.
+- Designed and executed hardware‑software integration testing strategies for global vendor devices (PAX, NexGo, Kozen/XC Tech, Hyosung, GRG Banking, LKS).
+- Optimized system‑level performance for embedded payment environments under strict latency and reliability constraints.
+- Collaborated with international vendors and internal teams to ensure compliance, interoperability, and production readiness.
+- Contributed to standardization and modernization of national‑scale ATM infrastructure (Tosan holds the leading market position in Iran).
 
 </details>
 
 <details>
-<summary>🚛 <b>R&D Engineer – ADAS & Autonomous Control</b> @ SoftwareMotion (China) · <code>Jan–Jun 2025</code>   <img src="https://img.shields.io/badge/Suzhou%2C_China-00D9FF?style=flat-square"/></summary>
-<br/>
+<summary><b>🔬 Computational Neuroscience Researcher</b> @ Neuromatch Academy <i>(Jul 2025 – Apr 2026)</i></summary>
 
-> **Embedded AI for Vehicles:** Integrated real-time AI control modules for autonomous trucks and intelligent transportation. Collaborated with JAC Motors, China National Heavy Duty Truck Group, AXera Technologies.
+**Research Overview:** Selected for an intensive, lab‑style program simulating graduate‑level computational neuroscience, focusing on neural and computational principles of decision‑making under uncertainty.
 
-| 🔧 Technical Impact |
-|---|
-| 🟧 Developed and validated ADAS controllers under strict real-time and safety constraints |
-| 🟧 Reduced latency by 30% through embedded optimization on ARM-based platforms |
-| 🟧 Supported international deployment across diverse regulatory environments |
+**Focus:** Brain‑wide representations of prior information and uncertainty, inspired by IBL 2024 study. Worked with **Neuropixels electrophysiology** and **calcium imaging** from behaving mice.
 
-</details>
+**Key Contributions:**
+- Developed **Bayesian and probabilistic models** to characterize latent cognitive variables governing decision dynamics.
+- Applied machine learning and representation learning to extract interpretable structure from high‑dimensional neural recordings.
+- Designed large‑scale data preprocessing pipelines (signal denoising, alignment, multimodal validation).
+- Analyzed neural population activity to decode encoding of prior beliefs, uncertainty, and behavioral adaptation.
+- Collaborated in a multidisciplinary team spanning neuroscience, AI, and statistical modeling.
+- Produced technical reports and presentations, communicating findings through peer review.
 
-<details>
-<summary>🚚 <b>AI Engineer – Automotive Safety Systems</b> @ Mammut Group · <code>2024</code>   <img src="https://img.shields.io/badge/Karaj%2FIran-00D9FF?style=flat-square"/></summary>
-<br/>
-
-> **AI for Heavy-Duty Trucks:** Designed AI-enhanced driver-assistance and ECU firmware for commercial vehicles. Led integration of machine learning models into safety-critical embedded systems.
-
-| 🔧 Contributions |
-|---|
-| 🟥 Implemented real-time control logic for collision avoidance and lane keeping |
-| 🟥 Optimized inference on resource-constrained ECUs (CAN bus, low-power) |
-| 🟥 Validated system reliability against automotive safety standards |
+**Impact:** Strengthened ability to bridge neuroscience and AI, developing principled models of cognition grounded in real neural data.
 
 </details>
 
 <details>
-<summary>🤖 <b>AI Engineer – Humanoid Autonomous Systems</b> @ MRL Humanoid (RoboCup) · <code>2022</code>   <img src="https://img.shields.io/badge/Qazvin%2FIran-00D9FF?style=flat-square"/></summary>
-<br/>
+<summary><b>🚛 R&D Engineer – ADAS & Autonomous Control</b> @ SoftwareMotion Co., Ltd <i>(Jan 2025 – Jun 2025)</i></summary>
 
-> **Multiple RoboCup World Champion 🏆:** Developed real-time computer vision and multi-agent decision-making for fully autonomous humanoid robots in dynamic adversarial environments.
+**Role Overview:** Contributed to AI‑driven control systems for autonomous vehicles and intelligent transportation, supporting smart mobility and unmanned logistics in a scaling international environment.
 
-| 🔧 Achievements |
-|---|
-| 🟨 Engineered robust perception (ball tracking, localization, field recognition) |
-| 🟨 Applied reinforcement learning for tactical behavior adaptation |
-| 🟨 Won championships in Australia, Canada, Thailand, Russia, Japan |
+**Technical Scope:**
+- Integrated embedded AI modules into real‑time vehicle control architectures.
+- Developed and validated ADAS and autonomous driving controllers under strict real‑time and safety constraints.
+- Collaborated in hardware‑software co‑design across perception, control, and embedded systems teams.
+- Worked with radar sensing, intelligent controllers, and in‑vehicle platforms.
+
+**Key Contributions:**
+- Designed and validated control logic and system‑level behaviors for intelligent driving systems.
+- Optimized performance and reduced latency in real‑time embedded environments.
+- Contributed to safety validation and robustness testing aligned with industry‑grade standards.
+- Supported international deployment and adaptation across diverse regulatory environments.
+
+**Industry Exposure:** Collaborated with major automotive and AI stakeholders: **JAC Motors, China National Heavy Duty Truck Group, AXera Technologies, Tongxing Technology, National Intelligent Connected Vehicle, Ligong Tongyu**.
+
+**Impact:** Strengthened expertise in embedded AI, autonomous control, and real‑time system design, with hands‑on experience scaling intelligent vehicle technologies.
 
 </details>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="6px"/>
-
-<div align="center">
-
-## 🛠️ Technical Arsenal
-
-<table style="width: 100%;">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🤖 AI & ML</h3>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark"/><br/>
-      <img src="https://img.shields.io/badge/🤗_Hugging_Face-Advanced-FFD21E?style=flat-square&logo=huggingface"/>
-      <img src="https://img.shields.io/badge/Reinforcement_Learning-Expert-000000?style=flat-square"/>
-      <div style="margin-top: 8px;">
-        <code>PyTorch Lightning · Transformers · LangChain</code>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Embedded & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=cpp,c,java,linux,raspberrypi&theme=dark"/><br/>
-      <img src="https://img.shields.io/badge/RTOS-FreeRTOS-00A1E0?style=flat-square"/>
-      <img src="https://img.shields.io/badge/CAN_bus-Expert-008C45?style=flat-square"/>
-    </td>
-    <td align="center" width="34%">
-      <h3>🔒 Fintech & Security</h3>
-      <img src="https://img.shields.io/badge/Payment_OS_(Prolin%2FPayDroid)-Expert-00ADD8?style=flat-square"/>
-      <img src="https://img.shields.io/badge/EMV_&_Crypto_Keys-Advanced-333333?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Security_Platform_(SP)-Lead-CC342D?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <h3>📊 Proficiency Bars</h3>
-      <table style="width: 80%; margin: auto;">
-        <tr><td>Python & ML Ecosystems</td><td><progress value="95" max="100"></progress> 95%</td></tr>
-        <tr><td>C++ / Embedded C</td><td><progress value="92" max="100"></progress> 92%</td></tr>
-        <tr><td>Linux System Engineering</td><td><progress value="97" max="100"></progress> 97%</td></tr>
-        <tr><td>Security Platform Architecture</td><td><progress value="94" max="100"></progress> 94%</td></tr>
-        <tr><td>LLM/VLM Integration</td><td><progress value="88" max="100"></progress> 88%</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="6px"/>
-
-<div align="center">
-
-## 🎓 Education & Certifications
-
-<table style="width: 100%;">
-  <tr>
-    <td width="50%" align="center">
-      <img width="48" src="https://cdn-icons-png.flaticon.com/512/2602/2602413.png"/><br/>
-      <b>M.Sc. Artificial Intelligence</b><br/>
-      Qazvin Islamic Azad University · 2025<br/>
-      <sub>Focus: Computer Vision, Reinforcement Learning</sub>
-    </td>
-    <td width="50%" align="center">
-      <img width="48" src="https://cdn-icons-png.flaticon.com/512/2602/2602481.png"/><br/>
-      <b>B.Sc. Software Engineering</b><br/>
-      Qazvin Islamic Azad University · 2020–2024<br/>
-      <sub>Comprehensive software & systems foundations</sub>
-    </td>
-  </tr>
-</table>
 
 <details>
-<summary>📜 <b>View Key Certifications (10+)</b></summary>
-<br/>
+<summary><b>🚚 AI Engineer – Automotive AI & Safety Systems</b> @ Mammut Group <i>(Jan 2024 – Dec 2024)</i></summary>
 
-| Certification | Issuer |
-|---------------|--------|
-| Elements of AI | University of Helsinki |
-| Computational Neuroscience | Neuromatch Academy |
-| Unsupervised Learning, Recommenders, RL | deeplearning.ai |
-| Fundamentals of RL | University of Alberta |
-| Advanced Computer Vision with TensorFlow | deeplearning.ai |
-| Robotics: Aerial Robotics | University of Pennsylvania |
-| Google Analytics (Beginner, Advanced, 360) | Google Academy |
+**Role Overview:** Designed and developed AI‑driven safety and driver‑assistance systems for heavy‑duty trucks and commercial vehicles at a leading Middle East manufacturer.
+
+**Technical Scope:**
+- Integrated machine learning models into embedded automotive platforms for intelligent driver‑assistance and safety.
+- Developed and validated **ECU firmware** for safety‑critical vehicle systems under real‑time constraints.
+- Participated in system‑level architecture design bridging control algorithms, embedded software, and vehicle electronics.
+
+**Key Contributions:**
+- Implemented and tested AI‑enhanced control logic within resource‑constrained embedded environments.
+- Optimized system performance for low‑latency and real‑time execution on automotive hardware.
+- Supported validation and reliability testing aligned with automotive safety and compliance standards.
+- Collaborated across mechanical, electrical, and software teams to ensure robust system integration and production readiness.
+
+**Industry Exposure:** Solutions supporting regional expansion in commercial transport and logistics markets across the Middle East.
+
+**Impact:** Strengthened expertise in embedded AI, ECU development, and automotive safety systems.
 
 </details>
 
-</div>
+<details>
+<summary><b>🤖 AI Engineer – Humanoid Autonomous Systems</b> @ MRL Humanoid (RoboCup) <i>(Jan 2022 – Dec 2022)</i></summary>
 
-<br/>
+**Role Overview:** Core contributor to the MRL Humanoid Soccer Team, developing AI‑driven perception and decision‑making systems for fully autonomous humanoid robots in dynamic, adversarial environments.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="6px"/>
+**Achievements:**
+- Part of a top‑tier robotics team achieving **multiple international RoboCup championships** in Australia, Canada, Thailand, Russia, and Japan.
 
-<div align="center">
+**Technical Scope:**
+- Designed and implemented real‑time computer vision pipelines for object detection, ball tracking, localization, and field recognition.
+- Developed multi‑agent AI systems for coordinated team behavior and distributed decision‑making.
+- Applied reinforcement learning and adaptive control strategies to enhance autonomous tactical responses.
+- Optimized algorithms for low‑latency execution on resource‑constrained robotic hardware.
 
-## 📊 GitHub Analytics & Activity
+**Key Contributions:**
+- Engineered robust perception systems resilient to noise, occlusion, and rapid environmental changes.
+- Improved real‑time performance and decision accuracy through efficient model design.
+- Collaborated within a multidisciplinary robotics team integrating AI, control, and mechanical systems.
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awrsha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Awrsha&theme=tokyonight&hide_border=true&mode=weekly" height="180"/>
-</div>
+**Impact:** Built strong expertise in real‑time AI, embodied intelligence, multi‑agent systems, and robotic perception.
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=tokyonight" height="180"/>
-</div>
+</details>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Awrsha&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Awrsha)
+---
 
-<div style="margin-top: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Awrsha&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
-</div>
+## 🛠️ Technical Expertise
 
-</div>
+### 🤖 Artificial Intelligence & Machine Learning
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Expert-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-Advanced-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Proficient-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-Expert-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 
-<br/>
+### ⚙️ Embedded Systems & Real‑Time
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-Expert-03599C?style=for-the-badge&logo=c&logoColor=white)
+![Java (OS)](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="6px"/>
+### 🔒 Fintech & Security
+![Payment OS](https://img.shields.io/badge/Payment_OS_(Prolin,_PayDroid,_Monitor)-Expert-00ADD8?style=for-the-badge&logo=android&logoColor=white)
+![EMV & Cryptography](https://img.shields.io/badge/EMV_&_Crypto_Key_Management-Advanced-333333?style=for-the-badge&logo=security&logoColor=white)
+![SP Architecture](https://img.shields.io/badge/Security_Platform_(SP)-Expert-CC342D?style=for-the-badge&logo=trustpilot&logoColor=white)
 
-<div align="center">
+### 💾 Data, DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD_(GitHub_Actions)-Advanced-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 🌐 Connect & Collaborate
+---
 
-<a href="https://www.linkedin.com/in/awrsha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:official.parvizi@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://t.me/AngusAlan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://github.com/Awrsha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://awrsha.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+## 🎓 Education
 
-<br/><br/>
+| Degree | Institution | Period | GPA / Notes |
+|--------|-------------|--------|-------------|
+| **M.Sc. Artificial Intelligence** | Qazvin Islamic Azad University | Graduated Oct 2025 | Focus on AI, CV, RL |
+| **B.Sc. Software Engineering** | Qazvin Islamic Azad University | Oct 2020 – Feb 2024 | Comprehensive software foundations |
 
-<a href="http://www.coffeete.ir/Awrsha"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" alt="Buy me a coffee"/></a>
+---
 
-<hr/>
+## 📜 Key Certifications
 
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" />
+| Certification | Issuing Organization | Country |
+|---------------|----------------------|---------|
+| Elements of Artificial Intelligence | University of Helsinki | 🇪🇺 |
+| Computational Neuroscience | Neuromatch Academy | 🇺🇸 |
+| Unsupervised Learning, Recommenders, Reinforcement Learning | deeplearning.ai | 🇺🇸 |
+| Fundamentals of Reinforcement Learning | University of Alberta | 🇨🇦 |
+| Programming for Everybody (Python) | University of Michigan | 🇺🇸 |
+| Advanced Computer Vision with TensorFlow | deeplearning.ai | 🇺🇸 |
+| Robotics: Aerial Robotics | University of Pennsylvania | 🇺🇸 |
+| Google Analytics (Beginner, Advanced, 360) | Google Academy | 🇪🇺 |
 
-<h3><i>"Building intelligent systems that matter — from payment cores to robot souls."</i></h3>
+*All certificates are verified; clickable links can be provided upon request.*
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,18,15,12&height=150&section=footer" width="100%"/>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awrsha&theme=blueberry" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=awrsha&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&layout=compact&theme=radical&hide_border=true" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awrsha&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awrsha&theme=radical" />
+</p>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=awrsha&theme=github-compact)](https://github.com/awrsha/github-readme-activity-graph)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/awrsha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:official.parvizi@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/AngusAlan">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Awrsha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://awrsha.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://www.coffeete.ir/Awrsha">
+    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" />
+</p>
+
+<h4 align="center">
+  <i>“Engineering the future, one intelligent system at a time.”</i>
+</h4>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats Bottom" />
+</p>
