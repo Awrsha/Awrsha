@@ -221,11 +221,11 @@ timeline
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awrsha&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph"/>
 
-<!-- github-profile-trophy.vercel.app can hit GitHub API rate limits; volunteer mirrors are listed at
-     https://github.com/ryo-ma/github-profile-trophy if this one goes down -->
-<img src="https://github-profile-trophy.vercel.app/?username=Awrsha&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" alt="trophies"/>
-
 </div>
+
+<!-- Trophy widget (github-profile-trophy.vercel.app) removed — the public instance is currently
+     returning quota-exceeded errors and its volunteer mirrors are inconsistently broken too.
+     If you want trophies back later, self-host it: https://github.com/ryo-ma/github-profile-trophy -->
 
 ---
 
