@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Amir%20(Arsha)%20Parvizi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20AI%20R%26D%20Specialist%20%7C%20Computer%20Vision%2C%20LLMs%20%26%20VLMs%20%7C%20Embedded%20Intelligence&descAlignY=58&descSize=16" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,35:2F6FED,70:8A8F98,100:F2A93B&height=220&section=header&text=Amir%20(Arsha)%20Parvizi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20AI%20R%26D%20Specialist%20%7C%20Computer%20Vision%2C%20LLMs%20%26%20VLMs%20%7C%20Embedded%20Intelligence&descAlignY=58&descSize=16" width="100%" alt="header banner"/>
 
 <a href="https://github.com/Awrsha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Payment+OS+Architect+%E2%9A%99%EF%B8%8F+Fintech+Security;Computer+Vision+%26+LLM%2FVLM+Engineer;RoboCup+World+Champion+%F0%9F%8F%86+MRL+Humanoid;Computational+Neuroscience+Researcher;Fine-Tuning+VLMs+on+Constrained+Hardware;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2A93B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Payment+OS+Architect+%E2%9A%99%EF%B8%8F+Fintech+Security;Computer+Vision+%26+LLM%2FVLM+Engineer;RoboCup+World+Champion+%F0%9F%8F%86+MRL+Humanoid;Computational+Neuroscience+Researcher;Fine-Tuning+VLMs+on+Constrained+Hardware;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Awrsha&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Awrsha?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
-<img src="https://img.shields.io/badge/LinkedIn-12,987%20Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin followers"/>
-<img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=for-the-badge" alt="status"/>
-<img src="https://img.shields.io/badge/Based_in-Tehran%2C_Iran-informational?style=for-the-badge" alt="location"/>
+<img src="https://komarev.com/ghpvc/?username=Awrsha&label=Profile+Views&color=2F6FED&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Awrsha?label=Followers&style=for-the-badge&color=F2A93B&labelColor=0B0B0F" alt="followers"/>
+<img src="https://img.shields.io/badge/LinkedIn-12,987%20Followers-2F6FED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B0F" alt="linkedin followers"/>
+<img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-F2A93B?style=for-the-badge&labelColor=0B0B0F" alt="status"/>
+<img src="https://img.shields.io/badge/Based_in-Tehran%2C_Iran-8A8F98?style=for-the-badge&labelColor=0B0B0F" alt="location"/>
 
 </div>
 
@@ -25,10 +25,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://awrsha.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awrsha/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.parvizi@hotmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AngusAlan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0B0B0F?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://awrsha.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2F6FED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B0F)](https://www.linkedin.com/in/awrsha/)
+[![Email](https://img.shields.io/badge/Email-Contact-F2A93B?style=for-the-badge&logo=gmail&logoColor=0B0B0F&labelColor=0B0B0F)](mailto:official.parvizi@hotmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-8A8F98?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0B0B0F)](https://t.me/AngusAlan)
 
 </div>
 
@@ -90,6 +90,7 @@ Carrying humanoid-robot vision and ADAS control experience into real-time percep
 ## 🏢 Professional Experience Timeline
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#2F6FED', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#F2A93B', 'lineColor': '#8A8F98', 'secondaryColor': '#0B0B0F', 'tertiaryColor': '#FFFFFF', 'background': '#0B0B0F', 'cScale0': '#2F6FED', 'cScale1': '#F2A93B', 'cScale2': '#8A8F98'}}}%%
 timeline
     title Career Journey
     2022 : AI Engineer, Humanoid Autonomous Systems — MRL Humanoid (RoboCup)
@@ -265,7 +266,7 @@ Bayesian reasoning, neuroscience-inspired models, and applied ML translated into
 ## 🧭 Skill Radar
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#2F6FED', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#F2A93B', 'lineColor': '#8A8F98', 'secondaryColor': '#0B0B0F', 'tertiaryColor': '#FFFFFF', 'background': '#0B0B0F'}}}%%
 mindmap
   root((Amir M. Parvizi))
     AI / ML
@@ -319,27 +320,27 @@ mindmap
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn&theme=dark" alt="AI/ML stack"/><br/>
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-Advanced-FFD21E?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/Reinforcement_Learning-Expert-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs_%2F_VLMs-Advanced-6E44FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bayesian_Modeling-Advanced-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/LoRA_%2F_QLoRA_%2F_Quantization-Advanced-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-Advanced-F2A93B?style=flat-square&logoColor=0B0B0F&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-Expert-0B0B0F?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs_%2F_VLMs-Advanced-2F6FED?style=flat-square&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/Bayesian_Modeling-Advanced-8A8F98?style=flat-square&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/LoRA_%2F_QLoRA_%2F_Quantization-Advanced-F2A93B?style=flat-square&labelColor=0B0B0F"/>
 
 ### ⚙️ Embedded Systems & Real-Time
 <img src="https://skillicons.dev/icons?i=cpp,c,java,linux&theme=dark" alt="embedded stack"/>
 
 ### 🔒 Fintech & Security
-<img src="https://img.shields.io/badge/Payment_OS_(Prolin,_PayDroid,_Monitor)-Expert-00ADD8?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/EMV_%26_Crypto_Key_Management-Advanced-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security_Platform_(SP)-Expert-CC342D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Secure_Boot-Advanced-2E8B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Payment_OS_(Prolin,_PayDroid,_Monitor)-Expert-2F6FED?style=flat-square&logoColor=white&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/EMV_%26_Crypto_Key_Management-Advanced-0B0B0F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security_Platform_(SP)-Expert-F2A93B?style=flat-square&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/Secure_Boot-Advanced-8A8F98?style=flat-square&labelColor=0B0B0F"/>
 
 ### 💾 Data, DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,postgres,githubactions,flask,js&theme=dark" alt="tools stack"/>
 
 ### 🗣️ Languages
-<img src="https://img.shields.io/badge/Persian-Native%20%2F%20Bilingual-3D8B37?style=flat-square"/>
-<img src="https://img.shields.io/badge/English-Limited%20Working%20Proficiency-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Persian-Native%20%2F%20Bilingual-2F6FED?style=flat-square&labelColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/English-Limited%20Working%20Proficiency-8A8F98?style=flat-square&labelColor=0B0B0F"/>
 
 </div>
 
@@ -349,12 +350,12 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Awrsha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Awrsha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B0B0F&title_color=F2A93B&text_color=FFFFFF&icon_color=2F6FED" alt="GitHub stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awrsha&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=F2A93B&text_color=FFFFFF" alt="top languages" width="45%"/>
 
-<img src="https://streak-stats.demolab.com?user=Awrsha&theme=tokyonight&hide_border=true" alt="streak stats" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=Awrsha&hide_border=true&background=0B0B0F&border=2F6FED&ring=F2A93B&fire=F2A93B&currStreakLabel=F2A93B&sideLabels=8A8F98&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8F98" alt="streak stats" width="90%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awrsha&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awrsha&hide_border=true&bg_color=0B0B0F&color=8A8F98&line=2F6FED&point=F2A93B&area_color=2F6FED&title_color=F2A93B" width="95%" alt="activity graph"/>
 
 </div>
 
@@ -363,7 +364,7 @@ mindmap
 ## 📈 Focus Areas — 2026
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#2F6FED', 'pie2': '#F2A93B', 'pie3': '#8A8F98', 'pie4': '#FFFFFF', 'pie5': '#0B0B0F', 'pieOuterStrokeColor': '#8A8F98', 'pieSectionTextColor': '#FFFFFF', 'pieTitleTextColor': '#F2A93B', 'pieLegendTextColor': '#FFFFFF', 'background': '#0B0B0F'}}}%%
 pie title Time Allocation by Domain
     "AI / Vision / LLM-VLM R&D" : 40
     "Payment OS & Security Platform" : 30
@@ -402,11 +403,11 @@ pie title Time Allocation by Domain
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/awrsha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:official.parvizi@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/AngusAlan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://github.com/Awrsha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://awrsha.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/awrsha/"><img src="https://img.shields.io/badge/LinkedIn-2F6FED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B0F" alt="LinkedIn"/></a>
+  <a href="mailto:official.parvizi@hotmail.com"><img src="https://img.shields.io/badge/Email-F2A93B?style=for-the-badge&logo=gmail&logoColor=0B0B0F&labelColor=0B0B0F" alt="Email"/></a>
+  <a href="https://t.me/AngusAlan"><img src="https://img.shields.io/badge/Telegram-8A8F98?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0B0B0F" alt="Telegram"/></a>
+  <a href="https://github.com/Awrsha"><img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://awrsha.github.io/"><img src="https://img.shields.io/badge/Portfolio-0B0B0F?style=for-the-badge&logo=About.me&logoColor=F2A93B" alt="Portfolio"/></a>
 </p>
 
 <div align="center">
@@ -419,6 +420,6 @@ pie title Time Allocation by Domain
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A93B,35:8A8F98,70:2F6FED,100:0B0B0F&height=120&section=footer" width="100%" alt="footer banner"/>
 
 <h4 align="center"><i>"Engineering the future, one intelligent system at a time."</i></h4>
